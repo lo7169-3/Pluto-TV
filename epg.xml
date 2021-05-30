@@ -1,5 +1,35 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="vh1 classics es">
+    <display-name lang="en">vh1 classics es</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/6076cd1df8576d0007c82193/logo.png" />
+    <url>http://www.pluto.tv.E</url>
+  </channel>
+  <channel id="Anime clasico es">
+    <display-name lang="en">Anime clasico es</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/6054acc871ec430007f54c7d/logo.png" />
+    <url>http://www.pluto.tv.E</url>
+  </channel>
+  <channel id="Cine latino es">
+    <display-name lang="en">Cine latino es</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f984c1dc54853000797a5e8/logo.png" />
+    <url>http://www.pluto.tv.E</url>
+  </channel>
+  <channel id=" Pluto tv cine estelar es">
+    <display-name lang="en"> Pluto tv cine estelar es</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac1f1b66c76000790ef27/logo.png" />
+    <url>http://www.pluto.tv.E</url>
+  </channel>
+  <channel id="Pluto tv cocina es">
+    <display-name lang="en">Pluto tv cocina es</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1acdaa8ba90f0007d5e760/logo.png" />
+    <url>http://www.pluto.tv.E</url>
+  </channel>
+  <channel id="Pluto tv cine accion es">
+    <display-name lang="en">Pluto tv cine accion es</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac2591dd8880007bb7d6d/logo.png" />
+    <url>http://www.pluto.tv.E</url>
+  </channel>
   <channel id="Pluto TV Series es">
     <display-name lang="en">Pluto TV Series es</display-name>
     <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac8f49205650007bc15f1/logo.png" />
@@ -422,152 +452,122 @@
   </channel>
   <channel id="Black Cinema">
     <display-name lang="en">Black Cinema</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="RiffTrax">
     <display-name lang="en">RiffTrax</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/58d947b9e420d8656ee101ab/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Flicks of Fury">
     <display-name lang="en">Flicks of Fury</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="The Asylum">
     <display-name lang="en">The Asylum</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/591105034c1806b47438342c/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Adventure TV">
     <display-name lang="en">Adventure TV</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5938876b78d8d9c074c3c657/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="FrontDoor">
     <display-name lang="en">FrontDoor</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5938888cd045ffce74cf9048/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Big Sky Conference">
     <display-name lang="en">Big Sky Conference</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/59641d9173ac1fec2fc01f17/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Cats 24/7">
     <display-name lang="en">Cats 24/7</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/599375885ceaac3cabccbed7/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Stadium">
     <display-name lang="en">Stadium</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/59974b6d7ec5063cb56f24c9/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="IMPACT Wrestling">
     <display-name lang="en">IMPACT Wrestling</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/59b722526996084038c01e1b/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Pluto TV Travel">
     <display-name lang="en">Pluto TV Travel</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/59c01b1953680139c6ae9d4d/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="PeopleTV">
     <display-name lang="en">PeopleTV</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/59c2c3ae40e64939daad8b76/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Pluto TV History">
     <display-name lang="en">Pluto TV History</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5a4d35dfa5c02e717a234f86/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Pluto TV Comedy">
     <display-name lang="en">Pluto TV Comedy</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5a4d3a00ad95e4718ae8d8db/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Pluto TV Romance">
     <display-name lang="en">Pluto TV Romance</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5a66795ef91fef2c7031c599/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="CBSN 2">
     <display-name lang="en">CBSN 2</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5a6b92f6e22a617379789618/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="FOX Sports">
     <display-name lang="en">FOX Sports</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5a74b8e1e22a61737979c6bf/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Wipeout">
     <display-name lang="en">Wipeout</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5ab3e1242be690697279c75d/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Pluto TV Paranormal">
     <display-name lang="en">Pluto TV Paranormal</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5adf96e3e738977e2c31cb04/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="The New Detectives">
     <display-name lang="en">The New Detectives</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5aea40b35126c2157123aa64/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Nosey">
     <display-name lang="en">Nosey</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5aec96ec5126c2157123c657/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Kevin Hart LOL">
     <display-name lang="en">Kevin Hart LOL</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5af09e645126c2157123f9eb/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Red Bull TV">
     <display-name lang="en">Red Bull TV</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5b22d1ee2795d0021bea5889/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Dogs 24/7">
     <display-name lang="en">Dogs 24/7</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5b329e0a7b9d8872aeb49ceb/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Privacy Policy">
     <display-name lang="en">Privacy Policy</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5b36abcddfb1f0729a3a7dab/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Pluto TV Thrillers">
     <display-name lang="en">Pluto TV Thrillers</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5b4e69e08291147bd04a9fd7/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Pluto TV Drama">
     <display-name lang="en">Pluto TV Drama</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5b4e92e4694c027be6ecece1/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="WatchFree Adventure">
     <display-name lang="en">WatchFree Adventure</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5b4e934d694c027be6ecece2/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="CMT Westerns">
     <display-name lang="en">CMT Westerns</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5b4e94282d4ec87bdcbb87cd/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Unsolved Mysteries">
     <display-name lang="en">Unsolved Mysteries</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5b4e96a0423e067bd6df6901/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Gordon Ramsay's Kitchen">
@@ -576,52 +576,42 @@
   </channel>
   <channel id="Pluto TV Sci-Fi">
     <display-name lang="en">Pluto TV Sci-Fi</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5b4fc274694c027be6ed3eea/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Pluto TV Fantastic">
     <display-name lang="en">Pluto TV Fantastic</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5b64a245a202b3337f09e51d/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="British TV">
     <display-name lang="en">British TV</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5b68a18823ecb93393cba2f1/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Chassy">
     <display-name lang="en">Chassy</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5b6b285823ecb93393cbf766/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Pluto TV Documentaries">
     <display-name lang="en">Pluto TV Documentaries</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5b85a7582921777994caea63/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Pluto TV Spotlight">
     <display-name lang="en">Pluto TV Spotlight</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5ba3fb9c4b078e0f37ad34e8/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Combate World">
     <display-name lang="en">Combate World</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5bb1ac3e268cae539bcedb07/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="The Pet Collective">
     <display-name lang="en">The Pet Collective</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5bb1ad55268cae539bcedb08/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Forensic Files">
     <display-name lang="en">Forensic Files</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Complex Networks">
     <display-name lang="en">Complex Networks</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5bb1b439ea5c9e53afd21325/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Pluto TV Military">
@@ -1932,9 +1922,1203 @@
     <display-name lang="es">Viajar</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
+  <programme start="20210530000000 +0000" stop="20210530093700 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20210530093700 +0000" stop="20210530100000 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Fight The Power (Public Enemy) / Are You Gonna Go My Way (Lenny Kravitz) / Believe (Cher) / The Show Must Go On (Queen) / All That She Wants (Ace of Base).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/60893c78843e970007691f5f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530100000 +0000" stop="20210530102200 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Relax (Frankie Goes To Hollywood) / Right Here Waiting (Richard Marx) / Ring My Bell (Anita Ward) / Somebody's Watching Me (Rockwell) / Strange Love (Depeche Mode).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/60534d5e485aee000753d121/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530102200 +0000" stop="20210530104500 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">If You Had My Love (Jennifer Lopez) / Space Cowboy (Jamiroquai) / Thank You (Dido) / Vision of Love (Mariah Carey) / Corazón partío (Alejandro Sanz).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/60894635843e970007691f7c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530104500 +0000" stop="20210530111100 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Big In Japan (Alphaville) / Bizarre Love Triangle (New Order) / Brothers In Arms (Dire Straits) / Every Breath You Take (The Police) / Fade To Black (Metallica).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/6050cab6ffc52f00071117f6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530111100 +0000" stop="20210530113400 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Girls Just Want To Have Fun (Cindy Lauper) / Hold The Line (Toto) / I Just Died In Your Arms (Cutting Crew) / If You Leave Me Now (Chicago) / I Just Can't Get Enough (Depeche Mode).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/6050cda20964ce0007396bc0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530113400 +0000" stop="20210530115800 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">My Heart Will Go On (Céline Dion) / Entre Dos Tierras (Héroes del Silencio) / Train (Undrop) / Al amanecer (Los Fresones Rebeldes) / Salomé (Chayanne).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/608bd641e8591700076b5108/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530115800 +0000" stop="20210530122200 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics: The Cure / Dire Straits / Fine Young Cannibals / Grace Jones / Joy Division</title>
+    <desc lang="en">Close to Me (The Cure) / Romeo And Juliet (Dire Straits) / She Drives Me Crazy (Fine Young Cannibals) / Pull Up To The Bumper (Grace Jones) / Love Will Tear Us Apart (Joy Division).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/607ea9bb2d24880007ff9d3c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530122200 +0000" stop="20210530124900 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">The Only Way Is Up (Yazz And The Plastic Population) / The Riddle (Nik Kershaw) / Time After Time (Cyndi Lauper) / Come On Eileen (Dexys Midnight Runners) / Drive (The Cars) / Should I Stay Or Should I Go (The Clash).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/6086e90c3a182800070334c5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530124900 +0000" stop="20210530131400 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Blue (Da Ba Dee) (Eiffel 65) / I Don't Want To Miss A Thing (Aerosmith) / Basket Case (Green Day) / I Will Always Love You (Whitney Houston) / Californication (Red Hot Chili Peppers).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/608bd22a1b0ce600075ce4bb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530131400 +0000" stop="20210530133700 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Super Freak (Rick James) / I Want To Know What Love Is (Foreigner) / It's A Sin (Pet Shop Boys) / Take On Me (A-Ha) / Cruel Summer (Bananarama).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/60537d5aaaee5800073a260d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530133700 +0000" stop="20210530135900 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Around The World (Daft Punk) / Right Here, Right Now (Fatboy Slim) / Everybody (Backstreet's Back) (Backstreet Boys) / Say My Name (Destiny's Child) / I'm Outta Love (Anastacia).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/608bd434e1f8790007b35949/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530135900 +0000" stop="20210530142400 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Here Come The Hotstepper (Ini Kamoze) / Gangsta's Paradise (Coolio Ft. Rico Bernasconi) / Wannabe (Spice Girls) / Don't Speak (No Doubt) / Wonderwall (Oasis).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/60893f45e6c77a00075e29f9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530142400 +0000" stop="20210530144500 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Sweet Dreams (Are Made Of This) (Eurythmics) / More Than This (Roxy Music) / Oh L'amour (Erasure) / Orinoco Flow (Enya) / Owner Of A Lonely Heart (Yes).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/6050e55d3b5bd00007debafc/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530144500 +0000" stop="20210530150800 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Missing You (John Waite) / Money For Nothing (Dire Straits) / More Than A Feeling (Boston) / Teardrops (Womack &amp; Womack) / The Final Countdown (Europe).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/6053802a3a9e440007489197/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530150800 +0000" stop="20210530152800 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Canciones clásicas.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/60a37834b029e60007768a3d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530152800 +0000" stop="20210530155300 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Karma Chameleon (Culture Club) / The Logical Song (Supertramp) / The Sun Always Shines On TV (A-Ha) / Total Eclipse Of The Heart (Bonnie Tyler) / Whatever You Want (Status Quo).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/6050d1b8a1b5f700074c663b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530155300 +0000" stop="20210530161600 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Losing My Religion (R.E.M.) / Zombie (The Cranberries) / Friday I'm In Love (The Cure) / The Power (Snap) / Played-A-Live (Safri Duo).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/608941efcffdca00078be1f7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530161600 +0000" stop="20210530163800 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">What's Love Got It To Do With It (Tina Turner) / The Rhythm of The Night (Corona) / Saturday Night (Whigfield) / Mr. Vain (Culture Beat) / Barbie Girl (Aqua).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/608bd013d31fcc00083d0201/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530163800 +0000" stop="20210530170100 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Ciega, Sordomuda (Shakira) / Don't Look Back In Anger (Oasis) / Baby One More Time (Britney Spears) / Butterfly (Crazy Town) / Genie In A Bottle (Christina Aguilera).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/608944023029660007d89a9a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530170100 +0000" stop="20210530172200 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Wuthering Heights (Kate Bush) / You're My Heart, You're My Soul (Modern Talking) / Voyage Voyage (Desireless) / Livin' On A Prayer (Bon Jovi) / Moonlight Shadow (Mike Oldfield).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/6050e0b6a631180007d7ed68/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530172200 +0000" stop="20210530174400 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics: Neneh Cherry / Queen / R.E.M. / Rick Astley / Salt N Pepa</title>
+    <desc lang="en">Buffalo Stance (Neneh Cherry) / Another One Bites The Dust (Queen) / It's The End Of The World As We Know It (R.E.M) / Never Never Gonna Give You Up (Rick Astley) / Push It (Salt N Pepa).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/607eba1b1f7d380007217af8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530174400 +0000" stop="20210530180700 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Fight The Power (Public Enemy) / Are You Gonna Go My Way (Lenny Kravitz) / Believe (Cher) / The Show Must Go On (Queen) / All That She Wants (Ace of Base).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/60893c78843e970007691f5f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530180700 +0000" stop="20210530182900 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Relax (Frankie Goes To Hollywood) / Right Here Waiting (Richard Marx) / Ring My Bell (Anita Ward) / Somebody's Watching Me (Rockwell) / Strange Love (Depeche Mode).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/60534d5e485aee000753d121/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530182900 +0000" stop="20210530185200 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">If You Had My Love (Jennifer Lopez) / Space Cowboy (Jamiroquai) / Thank You (Dido) / Vision of Love (Mariah Carey) / Corazón partío (Alejandro Sanz).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/60894635843e970007691f7c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530185200 +0000" stop="20210530191800 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Big In Japan (Alphaville) / Bizarre Love Triangle (New Order) / Brothers In Arms (Dire Straits) / Every Breath You Take (The Police) / Fade To Black (Metallica).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/6050cab6ffc52f00071117f6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530191800 +0000" stop="20210530194100 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Girls Just Want To Have Fun (Cindy Lauper) / Hold The Line (Toto) / I Just Died In Your Arms (Cutting Crew) / If You Leave Me Now (Chicago) / I Just Can't Get Enough (Depeche Mode).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/6050cda20964ce0007396bc0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530194100 +0000" stop="20210530200500 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">My Heart Will Go On (Céline Dion) / Entre Dos Tierras (Héroes del Silencio) / Train (Undrop) / Al amanecer (Los Fresones Rebeldes) / Salomé (Chayanne).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/608bd641e8591700076b5108/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530200500 +0000" stop="20210530202900 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics: The Cure / Dire Straits / Fine Young Cannibals / Grace Jones / Joy Division</title>
+    <desc lang="en">Close to Me (The Cure) / Romeo And Juliet (Dire Straits) / She Drives Me Crazy (Fine Young Cannibals) / Pull Up To The Bumper (Grace Jones) / Love Will Tear Us Apart (Joy Division).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/607ea9bb2d24880007ff9d3c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530202900 +0000" stop="20210530205600 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">The Only Way Is Up (Yazz And The Plastic Population) / The Riddle (Nik Kershaw) / Time After Time (Cyndi Lauper) / Come On Eileen (Dexys Midnight Runners) / Drive (The Cars) / Should I Stay Or Should I Go (The Clash).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/6086e90c3a182800070334c5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530205600 +0000" stop="20210530212100 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Blue (Da Ba Dee) (Eiffel 65) / I Don't Want To Miss A Thing (Aerosmith) / Basket Case (Green Day) / I Will Always Love You (Whitney Houston) / Californication (Red Hot Chili Peppers).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/608bd22a1b0ce600075ce4bb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530212100 +0000" stop="20210530214800 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">The Only Way Is Up (Yazz And The Plastic Population) / The Riddle (Nik Kershaw) / Time After Time (Cyndi Lauper) / Come On Eileen (Dexys Midnight Runners) / Drive (The Cars) / Should I Stay Or Should I Go (The Clash).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/6086e90c3a182800070334c5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530214800 +0000" stop="20210530221300 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Blue (Da Ba Dee) (Eiffel 65) / I Don't Want To Miss A Thing (Aerosmith) / Basket Case (Green Day) / I Will Always Love You (Whitney Houston) / Californication (Red Hot Chili Peppers).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/608bd22a1b0ce600075ce4bb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530221300 +0000" stop="20210530223600 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Super Freak (Rick James) / I Want To Know What Love Is (Foreigner) / It's A Sin (Pet Shop Boys) / Take On Me (A-Ha) / Cruel Summer (Bananarama).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/60537d5aaaee5800073a260d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530223600 +0000" stop="20210530225800 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Around The World (Daft Punk) / Right Here, Right Now (Fatboy Slim) / Everybody (Backstreet's Back) (Backstreet Boys) / Say My Name (Destiny's Child) / I'm Outta Love (Anastacia).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/608bd434e1f8790007b35949/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530225800 +0000" stop="20210530232300 +0000" channel="vh1 classics es">
+    <title lang="en">VH1 Classics</title>
+    <desc lang="en">Here Come The Hotstepper (Ini Kamoze) / Gangsta's Paradise (Coolio Ft. Rico Bernasconi) / Wannabe (Spice Girls) / Don't Speak (No Doubt) / Wonderwall (Oasis).(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/60893f45e6c77a00075e29f9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530000000 +0000" stop="20210530094300 +0000" channel="Anime clasico es">
+    <title lang="en">Anime Clásico</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20210530094300 +0000" stop="20210530101200 +0000" channel="Anime clasico es">
+    <title lang="en">Kochikame: El diablo sobre ruedas</title>
+    <desc lang="en">Honda es un hombre muy amable que hornea pasteles para Ryotsu.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Comedy</category>
+    <icon src="https://images.pluto.tv/episodes/6075482706e132001a70ef01/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530101200 +0000" stop="20210530104100 +0000" channel="Anime clasico es">
+    <title lang="en">Kochikame: Festín en la mansión de Nakagawa</title>
+    <desc lang="en">Ryotsu es invitado a la fiesta de cumpleaños del príncipe Hondara.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Comedy</category>
+    <icon src="https://images.pluto.tv/episodes/6075482706e132001a70ef89/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530104100 +0000" stop="20210530111000 +0000" channel="Anime clasico es">
+    <title lang="en">Kochikame: El honor del tokiota</title>
+    <desc lang="en">Los nativos de Edokko participan en la carrera de santuarios portátiles entre ciudades.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Comedy</category>
+    <icon src="https://images.pluto.tv/episodes/6075482706e132001a70efab/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530111000 +0000" stop="20210530113600 +0000" channel="Anime clasico es">
+    <title lang="en">Keroro: ¡La invasión se pone en marcha! ¡A la orden!</title>
+    <desc lang="en">Los keronenses construyen una impresionante base en el subsuelo de la casa de los Hinata, desde la que pretenden dirigir su anhelada invasión. Lo que no contaban es que tendrían intrusos de buenas a primeras. ¿Quiénes son los intrusos?(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Comedy</category>
+    <icon src="https://images.pluto.tv/episodes/607ff3288119a5001a74a589/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530113600 +0000" stop="20210530120200 +0000" channel="Anime clasico es">
+    <title lang="en">Keroro: ¡El romance de Natsumi y la llegada de Kururu! ¡A la orden!</title>
+    <desc lang="en">Natsumi está secretamente enamorada de su compañero de escuela Saburo. El inventor Kururu tendrá también un papel estelar al inventar la pistola de reducción de edad, con la que convierte a mamá en una colegiala.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Comedy</category>
+    <icon src="https://images.pluto.tv/episodes/607ff3288119a5001a74a57a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530120200 +0000" stop="20210530122800 +0000" channel="Anime clasico es">
+    <title lang="en">Keroro: ¡La gran batalla dental! ¡A la orden!</title>
+    <desc lang="en">Un terrible enemigo acecha a los keronenses: ¡y es que Keroro tiene caries! Descubrimos que las caries de los keronenses son en realidad microscópicos invasores del espacio.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Comedy</category>
+    <icon src="https://images.pluto.tv/episodes/607ff3268119a5001a74a55c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530122800 +0000" stop="20210530125400 +0000" channel="Anime clasico es">
+    <title lang="en">Keroro: ¡La tropa Keroro debuta en la tele! ¡A la orden!</title>
+    <desc lang="en">El equipo de rodaje de "Viajes y lágrimas", un popular programa de la tele galáctica llega a la Tierra para hacer un reportaje en el que los keronenses. ¡Lo que no contaban es que los miembros de "Viajes y lágrimas" tienen un morro que se lo pisan!(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Comedy</category>
+    <icon src="https://images.pluto.tv/episodes/607ff3288119a5001a74a5c5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530125400 +0000" stop="20210530132000 +0000" channel="Anime clasico es">
+    <title lang="en">Reborn!: La enfermedad de la calavera</title>
+    <desc lang="en">Se dice que, tras recibir diez rayos a muerte, uno sufre alguna calamidad.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Action &amp; Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/60741805676b99001b93f46a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530132000 +0000" stop="20210530134600 +0000" channel="Anime clasico es">
+    <title lang="en">Reborn!: ¡Ajajá! ¡Un almuerzo explosivo!</title>
+    <desc lang="en">Tsuna se olvida el almuerzo en casa y Lambo recibe el encargo de llevárselo.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Action &amp; Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/60741809676b99001b93f4ce/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530134600 +0000" stop="20210530141200 +0000" channel="Anime clasico es">
+    <title lang="en">Reborn!: Los bollos del amor y la muerte</title>
+    <desc lang="en">Haru y Kyoko van a comer pastelitos a casa de Tsuna.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Action &amp; Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/60741809676b99001b93f4c4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530141200 +0000" stop="20210530143800 +0000" channel="Anime clasico es">
+    <title lang="en">Reborn!: ¡Entrenamiento especial! El programa de refuerzo</title>
+    <desc lang="en">Reborn planifica un programa de refuerzo y entrenamiento especial para Gokudera y Yamamoto.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Action &amp; Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/60741804676b99001b93f400/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530143800 +0000" stop="20210530150600 +0000" channel="Anime clasico es">
+    <title lang="en">Kiteretsu: Un hogar en las nubes</title>
+    <desc lang="en">Miyo-chan está distraída y no puede estudiar a menos que sea un lugar tranquilo.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Action &amp; Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/606c5cf4b58b22001a485ac7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530150600 +0000" stop="20210530153400 +0000" channel="Anime clasico es">
+    <title lang="en">Kiteretsu: El cazafechorías</title>
+    <desc lang="en">Eiichi está molesto por el comportamiento dominante de Gorila.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Action &amp; Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/606c5cf6b58b22001a485bb8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530153400 +0000" stop="20210530160200 +0000" channel="Anime clasico es">
+    <title lang="en">Kiteretsu: El pequeño guardaespaldas</title>
+    <desc lang="en">Papá fue atacado por un ladrón.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Action &amp; Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/606c5cf4b58b22001a485ab6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530160200 +0000" stop="20210530163000 +0000" channel="Anime clasico es">
+    <title lang="en">Kiteretsu: El partido de béisbol de padres e hijos</title>
+    <desc lang="en">Korosuke viene a la escuela con su padre.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Action &amp; Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/606c5cf7b58b22001a485cda/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530163000 +0000" stop="20210530165900 +0000" channel="Anime clasico es">
+    <title lang="en">Kochikame: Reiko y yo, inseparables</title>
+    <desc lang="en">Ryotsu juega con las esposas, pierde la llave y él y Reiko permanecen atados.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Comedy</category>
+    <icon src="https://images.pluto.tv/episodes/6075482606e132001a70ee94/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530165900 +0000" stop="20210530172800 +0000" channel="Anime clasico es">
+    <title lang="en">Kochikame: El elefante y yo</title>
+    <desc lang="en">Ryotsu captura un elefante en una tienda de conveniencia.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Comedy</category>
+    <icon src="https://images.pluto.tv/episodes/6075482806e132001a70f06a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530172800 +0000" stop="20210530175700 +0000" channel="Anime clasico es">
+    <title lang="en">Kochikame: ¡Corre en pos del amor, Honda!</title>
+    <desc lang="en">Honda está enamorada, ¿sabes de qué o de quién? Descúbrelo en este episodio.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Comedy</category>
+    <icon src="https://images.pluto.tv/episodes/6075482606e132001a70ee72/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530175700 +0000" stop="20210530182600 +0000" channel="Anime clasico es">
+    <title lang="en">Kochikame: El tesoro del jefe</title>
+    <desc lang="en">Ryotsu y sus amigos visitan a Oohara en su cumpleaños.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Comedy</category>
+    <icon src="https://images.pluto.tv/episodes/6075482806e132001a70f013/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530182600 +0000" stop="20210530185200 +0000" channel="Anime clasico es">
+    <title lang="en">Keroro: ¡Sumomo, una ídolo intergaláctica! ¡A la orden!</title>
+    <desc lang="en">Sumomo, popular cantante de la galaxia llega a la Tierra en busca de la tranquilidad del anonimato.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Comedy</category>
+    <icon src="https://images.pluto.tv/episodes/607ff3288119a5001a74a58e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530185200 +0000" stop="20210530191800 +0000" channel="Anime clasico es">
+    <title lang="en">Keroro: ¡Dororo, el guerrero olvidado! ¡A la orden!</title>
+    <desc lang="en">¿Alguien se acordaba de que la tropa Keroro estaba compuesta por cinco miembros? ¡Al parecer, ni siquiera ellos recordaban la existencia de Zeroro en sus filas! Aparece el quinto keronense, que ahora es un sigiloso ninja y se hace llamar Dororo.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Comedy</category>
+    <icon src="https://images.pluto.tv/episodes/607ff3288119a5001a74a5a2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530191800 +0000" stop="20210530194400 +0000" channel="Anime clasico es">
+    <title lang="en">Keroro: ¡Todos juntos en un histórico plan de invasión! ¡A la orden!</title>
+    <desc lang="en">Ahora que la tropa está reunida, es el momento de planear la invasión de forma decente. Los cinco keronenses se reúnen y discuten varios planes, a cual más descabellado, pero Dororo termina por descartarlos todos.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Comedy</category>
+    <icon src="https://images.pluto.tv/episodes/607ff3288119a5001a74a5b1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530194400 +0000" stop="20210530201000 +0000" channel="Anime clasico es">
+    <title lang="en">Keroro: ¡El advenimiento de la Momoka bruta! ¡A la orden!</title>
+    <desc lang="en">De todos es sabido que Momoka tiene un "lado oscuro", la llamada "Momoka bruta", que surge de vez en cuando. Pues bien, en este episodio ocurre un accidente que hace que Momoka se desdoble en dos personas: la dulce y la bruta.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Comedy</category>
+    <icon src="https://images.pluto.tv/episodes/607ff3288119a5001a74a56b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530201000 +0000" stop="20210530203600 +0000" channel="Anime clasico es">
+    <title lang="en">Reborn!: ¡Año nuevo! ¡El gran torneo de los cien millones!</title>
+    <desc lang="en">Es Año Nuevo y se celebra el tradicional torneo entre clanes de la famiglia Vongola.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Action &amp; Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/60741806676b99001b93f48f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530203600 +0000" stop="20210530210200 +0000" channel="Anime clasico es">
+    <title lang="en">Reborn!: ¿¡La primera cita!? El zoológico infernal</title>
+    <desc lang="en">Reborn le entrega a Tsuna dos entradas para ir al zoo con Kyoko.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Action &amp; Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/60741807676b99001b93f4b0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530210200 +0000" stop="20210530212800 +0000" channel="Anime clasico es">
+    <title lang="en">Reborn!: ¡Es la guerra! ¡Torneo de supervivencia en la nieve!</title>
+    <desc lang="en">Tsuna aprovecha la nevado para ir a jugar a la escuela con I-Pin y Lambo.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Action &amp; Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/60741807676b99001b93f4b5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530212800 +0000" stop="20210530215100 +0000" channel="Anime clasico es">
+    <title lang="en">Ninja Hattori: Un ninja cumple su palabra</title>
+    <desc lang="en">Hattori se une a la caminata de la escuela.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Action &amp; Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/607068bdf3fd5d001b815037/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530215100 +0000" stop="20210530221400 +0000" channel="Anime clasico es">
+    <title lang="en">Ninja Hattori: Menuda pesca</title>
+    <desc lang="en">Kenichi y sus amigos van de pesca.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Action &amp; Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/607068bdf3fd5d001b814ff2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530221400 +0000" stop="20210530223700 +0000" channel="Anime clasico es">
+    <title lang="en">Ninja Hattori: El lado bueno de Kemumaki</title>
+    <desc lang="en">Chemmaki ridiculiza a Kenichi.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Action &amp; Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/607068bdf3fd5d001b814fbb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530223700 +0000" stop="20210530230000 +0000" channel="Anime clasico es">
+    <title lang="en">Ninja Hattori: La dieta de papa</title>
+    <desc lang="en">Papá decide bajar de peso.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Action &amp; Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/607068bcf3fd5d001b814f82/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530230000 +0000" stop="20210530232600 +0000" channel="Anime clasico es">
+    <title lang="en">Keroro: ¡Keroro, la rana que amaba los juguetes! ¡A la orden!</title>
+    <desc lang="en">A Keroro lo que más le chifla de la vida en la Tierra es construir maquetas de robots, y para ello, tras cobrar su primera paga, decide ir a la juguetería del barrio a comprar alguna que otra.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Comedy</category>
+    <icon src="https://images.pluto.tv/episodes/607ff3288119a5001a74a5ac/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530000000 +0000" stop="20210530092700 +0000" channel="Cine latino es">
+    <title lang="en">Cine Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f984c1dc54853000797a5e8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20210530092700 +0000" stop="20210530113800 +0000" channel="Cine latino es">
+    <title lang="en">Papita, Maní, Tostón</title>
+    <desc lang="en">Andrés, un fanático del club de béisbol Leones, obtiene por error las entradas para el área VIP de los Navegantes, su equipo rival. Cuando conoce a Julissa y se enamora, van a complacer a sus familias, fingiendo ser fanáticos de los otros equipos.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Foreign Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fc527acce9667001a28ec11/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530113800 +0000" stop="20210530132600 +0000" channel="Cine latino es">
+    <title lang="en">El Malquerido</title>
+    <desc lang="en">Felipe Pirela, conocido como el Bolerista de América, revive su historia. Desde que era solo un niño pobre con talento para la música, hasta ser el cantante de Boleros más famoso de la historia.(n)</desc>
+    <category lang="en">Musicals</category>
+    <category lang="en">Foreign Musicals</category>
+    <icon src="https://images.pluto.tv/episodes/5fc5256d0dddaf0013b5eeb8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530132600 +0000" stop="20210530151700 +0000" channel="Cine latino es">
+    <title lang="en">A Ritmo De Fe</title>
+    <desc lang="en">Un bailarín muy talentoso entra a una de las academias más prestigiosas, Santo Domingo. Ahí, se enfrenta con los límites de su crianza, la hostilidad de casi todos, y un programa de realidad que podría ser su oportunidad grande.(n)</desc>
+    <category lang="en">Musicals</category>
+    <category lang="en">Foreign Musicals</category>
+    <icon src="https://images.pluto.tv/episodes/5fc51ff74926fb00133b515a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530151700 +0000" stop="20210530164800 +0000" channel="Cine latino es">
+    <title lang="en">Arangol</title>
+    <desc lang="en">La vida de un héroe anónimo que se convierte en el Cid Campeador del fútbol en un país que juega béisbol.(n)</desc>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Sports Documentaries</category>
+    <icon src="https://images.pluto.tv/episodes/5fc5203bce9667001a28eb4c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530164800 +0000" stop="20210530193200 +0000" channel="Cine latino es">
+    <title lang="en">El callejón de los milagros</title>
+    <desc lang="en">Basada en la novela homónima del escritor egipcio y Premio Nobel Mahfuz. En pleno centro de la ciudad de México, se entrecruzan las vidas e historias de varios personajes.(n)</desc>
+    <category lang="en">Independent</category>
+    <category lang="en">Foreign Art House</category>
+    <icon src="https://images.pluto.tv/episodes/60226332bffdfc001aa1df93/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530193200 +0000" stop="20210530210600 +0000" channel="Cine latino es">
+    <title lang="en">Te pido un taxi</title>
+    <desc lang="en">Rodrigo está seguro de poder conquistarlas a todas, y nunca se queda con ninguna, porque para él, el amor no existe. En su juego se encontrará con Sol, quién romperá toda regla que él se ha impuesto.(n)</desc>
+    <category lang="en">Independent</category>
+    <category lang="en">Foreign Art House</category>
+    <icon src="https://images.pluto.tv/episodes/602265d61c9c1f001a0e078c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530210600 +0000" stop="20210530230100 +0000" channel="Cine latino es">
+    <title lang="en">Como te ves me vi</title>
+    <desc lang="en">Una familia disfuncional, cuyos problemas se acentúan por la difícil relación entre un padre y su hijo adolescente que se está convirtiendo en un adulto y con el padre recordando su propia juventud.(n)</desc>
+    <category lang="en">Independent</category>
+    <category lang="en">Foreign Art House</category>
+    <icon src="https://images.pluto.tv/episodes/602261b3dc6117001bb36147/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210530000000 +0000" stop="20210530092900 +0000" channel=" Pluto tv cine estelar es">
+    <title lang="en">Pluto TV Cine Estelar</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20210530092900 +0000" stop="20210530113500 +0000" channel=" Pluto tv cine estelar es">
+    <title lang="en">Traidor</title>
+    <desc lang="en">Don Cheadle interpreta a un agente de la CIA que, después de infiltrarse en una banda terrorista, empieza a ser investigado bajo la sospecha de haberse pasado al otro bando y de estar involucrado en los recientes atentados de diversos países.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Thrillers</category>
+    <icon src="https://images.pluto.tv/episodes/5f523c5fdb45a1001a79ad76/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530113500 +0000" stop="20210530132600 +0000" channel=" Pluto tv cine estelar es">
+    <title lang="en">Mi vida ahora</title>
+    <desc lang="en">Daisy es una adolescente que viaja de USA a Inglaterra para pasar el verano con su tía y sus primos. Allí encontrará su primer amor, pero con el inicio de la 3ra Guerra Mundial la joven deberá esconderse en un bosque para sobrevivir.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5f4eaceddb45a1001a7952bb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530132600 +0000" stop="20210530152400 +0000" channel=" Pluto tv cine estelar es">
+    <title lang="en">Los reyes del mambo tocan canciones de amor</title>
+    <desc lang="en">Esta película nominada al Óscar® por su canción cuenta la historia de dos hermanos músicos que escapan de su nativa Cuba y encuentran el éxito en la escena musical latina de Nueva York de los años cincuenta.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/60813c96d55d910013f24e90/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530152400 +0000" stop="20210530173000 +0000" channel=" Pluto tv cine estelar es">
+    <title lang="en">Traidor</title>
+    <desc lang="en">Don Cheadle interpreta a un agente de la CIA que, después de infiltrarse en una banda terrorista, empieza a ser investigado bajo la sospecha de haberse pasado al otro bando y de estar involucrado en los recientes atentados de diversos países.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Thrillers</category>
+    <icon src="https://images.pluto.tv/episodes/5f523c5fdb45a1001a79ad76/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530173000 +0000" stop="20210530193300 +0000" channel=" Pluto tv cine estelar es">
+    <title lang="en">The Road</title>
+    <desc lang="en">Basado en la espléndida novela que ganó el premio Pulitzer en 2007. La película nos introduce en un mundo apocalíptico, arrasado por una explosión nuclear, en el cual un padre y su hijo viajan hacia la costa para buscar un lugar seguro donde vivir.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5ce5fa72a5001a5fd945/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530193300 +0000" stop="20210530213200 +0000" channel=" Pluto tv cine estelar es">
+    <title lang="en">El espía</title>
+    <desc lang="en">Eric O'Neill, recién llegado al FBI, entra en un juego de poder con su jefe, Robert Hanssen, un agente que fue juzgado por vender secretos a la Unión Soviética.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/5f6207f8fb35bf001af7bebb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530213200 +0000" stop="20210530231900 +0000" channel=" Pluto tv cine estelar es">
+    <title lang="en">An American Crime</title>
+    <desc lang="en">Basada en hechos reales. An American Crime cuenta la historia de una humilde ama de casa que encierra a una adolescente en el sótano de su casa en Indiana durante los años 60.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/5f4e17fefa72a5001a5fa285/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20210530000000 +0000" stop="20210530092300 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Pluto TV Cocina</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20210530092300 +0000" stop="20210530100900 +0000" channel="Pluto tv cocina es">
+    <title lang="en">A Bocados: A Bocados 55</title>
+    <desc lang="en">Receta: focaccia con rucula, aceitunas, jamon. Olivos de Ibon Labayen en Moreda de Alava. Seccion ¿truco o reto?:  que comida rapida tiene mas calorias.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/5f460c80b9a18c001a4b85b1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530100900 +0000" stop="20210530105500 +0000" channel="Pluto tv cocina es">
+    <title lang="en">A Bocados: A Bocados 56</title>
+    <desc lang="en">Muxarra al horno con coliflor verde. Cristian, patron de barco bajura. Habla de la muxarra. Iñigo Garin, la coliflor verde.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/5f460c7bb9a18c001a4b858d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530105500 +0000" stop="20210530113900 +0000" channel="Pluto tv cocina es">
+    <title lang="en">A Bocados: A Bocados 57</title>
+    <desc lang="en">Receta: minestrone con arroz. Plantacion de zanahorias de colores en Izpaster. Seccion ¿truco o reto?: clasificar varios alimentos segun sean de facil o dificil digestion.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/5f460c74b9a18c001a4b8573/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530113900 +0000" stop="20210530120600 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Los 30 grandes de Spencer: Noche de Pizza</title>
+    <desc lang="en">¿Qué es divertido para toda la familia? ¡La noche de pizza! El chef Spencer Watts prepara dos sencillas y económicas pizzas para un delicioso plato estilo familiar.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/60799d32e85e72001a662281/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530120600 +0000" stop="20210530123300 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Los 30 grandes de Spencer: Noche de Curry Apresurado</title>
+    <desc lang="en">Los platos de la India son el ejemplo ideal de las cenas para la familia entera. El presentador Spencer Watts hace uso de sabores audaces para preparar un Pollo con Mantequilla clásico y un refrescante Lassi de Mango.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/60799d2ee85e72001a66224a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530123300 +0000" stop="20210530130000 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Los 30 grandes de Spencer: Noche de Lunes sin Carne</title>
+    <desc lang="en">El Lunes sin Carne se puede hacer en cualquier día de la semana. El chef Spencer Watts prepara un plato vegetariano estilo familiar barato y saciante en unos 30 minutos.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/60799c8df3fd5d001b81debb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530130000 +0000" stop="20210530132600 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Jamie's Quick &amp; Easy Food: Cerdo/Langostinos/Ñoquis/Tarta de queso</title>
+    <desc lang="en">Jamie empieza por preparar su rica Hamburguesa graciosa de cerdo, una pequeña maravilla que eleva la comida rápida a otro nivel. Luego vienen los Langostinos jugosos con mango, un plato rápido y sabroso para compartir.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/5f85ba3a4510e5001a935255/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530132600 +0000" stop="20210530135200 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Jamie's Quick &amp; Easy Food: Pollo/Ensalada/Pasta con cangrejo</title>
+    <desc lang="en">Jamie comienza con su sabrosísimo Pollo Tikka. Receta más rápida, imposible. A continuación, llega la intensa Ensalada de granada y zanahoria, un plato saludable y listo en unos minutos.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/5f85ba3b4510e5001a935261/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530135200 +0000" stop="20210530141800 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Jamie's Quick &amp; Easy Food: Carbonara de salchicha/Pollo picante</title>
+    <desc lang="en">Jamie llega con su práctica y rápida Carbonara fácil de salchichas, con ese toque picante que tanta potencia les da. Luego nos trae su Sopa roja de pollo tailandesa, un plato picante que no te supondrá ninguna complicación.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/5f85ba3a4510e5001a93524d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530141800 +0000" stop="20210530144800 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Jamie's Quick &amp; Easy Food: Pollo al pesto/'Nduja/Salchichas asadas</title>
+    <desc lang="en">Jamie cocinará hoy su facilísimo Pollo hojaldrado al pesto, la forma más fácil de contentar a la familia. Luego le toca a su ‘Nduja picante con almejas, un sofisticado plato de pasta perfecto para una cena rápida.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530144800 +0000" stop="20210530151600 +0000" channel="Pluto tv cocina es">
+    <title lang="en">De la naturaleza a la mesa: Arándanos</title>
+    <desc lang="en">Millones de libras de arándanos comienzan su viaje global desde una granja de Nueva Escocia. Vea a un lote hacer su viaje desde el campo hasta el banquete de Acción de Gracias.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/60799e15f96a44001a1d968b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530151600 +0000" stop="20210530155300 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Robin Food: Episode 20</title>
+    <desc lang="en">Platos del dia: caponata de verduras. Bigote de gamba: David de Jorge se pesa (155,35 kgs).(n)</desc>
+    <category lang="en">News and Information</category>
+    <category lang="en">Food Stories</category>
+    <icon src="https://images.pluto.tv/episodes/5f7eee9672d139001a18f268/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530155300 +0000" stop="20210530162900 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Robin Food: Episode 21</title>
+    <desc lang="en">Platos: tostada de riñones. Sangria de moras.(n)</desc>
+    <category lang="en">News and Information</category>
+    <category lang="en">Food Stories</category>
+    <icon src="https://images.pluto.tv/episodes/5f7eee9672d139001a18f29a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530162900 +0000" stop="20210530171000 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Robin Food: Episode 22</title>
+    <desc lang="en">Invitado: Alejandro Rituerto, fabricante de chorizos. Platos: patatotto "barbacoa". Salchichas con salsa de tocineta.(n)</desc>
+    <category lang="en">News and Information</category>
+    <category lang="en">Food Stories</category>
+    <icon src="https://images.pluto.tv/episodes/5f7eee9672d139001a18f27d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530171000 +0000" stop="20210530175300 +0000" channel="Pluto tv cocina es">
+    <title lang="en">A Bocados: A Bocados 11</title>
+    <desc lang="en">Pulpo con papas arrugadas y mayonesa de choricero y pimenton. Video: pesca del pulpo. Truco o reto: cantidad de zinc en los alimentos.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/5f460db4b9a18c001a4b8a34/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530175300 +0000" stop="20210530183800 +0000" channel="Pluto tv cocina es">
+    <title lang="en">A Bocados: A Bocados 12</title>
+    <desc lang="en">Tallarines marinera. Video: ibon de markina cooperativa arretxe. Truco o reto: colesterol en los alimentos. En un pis-pas receta express. Merluza al vapor y merluza confitada.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/5f460d9ab9a18c001a4b89f2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530183800 +0000" stop="20210530192200 +0000" channel="Pluto tv cocina es">
+    <title lang="en">A Bocados: A Bocados 13</title>
+    <desc lang="en">Muslo de pollo relleno con veloute de champiñon. Seccion ¿truco o reto?:  mayonesa casera. Receta: huevos rellenos de atun.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/5f460d96b9a18c001a4b89df/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210530192200 +0000" stop="20210530194900 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Los 30 grandes de Spencer: Noche de Pizza</title>
+    <desc lang="en">¿Qué es divertido para toda la familia? ¡La noche de pizza! El chef Spencer Watts prepara dos sencillas y económicas pizzas para un delicioso plato estilo familiar.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/60799d32e85e72001a662281/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530194900 +0000" stop="20210530201600 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Los 30 grandes de Spencer: Noche de Curry Apresurado</title>
+    <desc lang="en">Los platos de la India son el ejemplo ideal de las cenas para la familia entera. El presentador Spencer Watts hace uso de sabores audaces para preparar un Pollo con Mantequilla clásico y un refrescante Lassi de Mango.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/60799d2ee85e72001a66224a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530201600 +0000" stop="20210530204300 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Los 30 grandes de Spencer: Noche de Lunes sin Carne</title>
+    <desc lang="en">El Lunes sin Carne se puede hacer en cualquier día de la semana. El chef Spencer Watts prepara un plato vegetariano estilo familiar barato y saciante en unos 30 minutos.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/60799c8df3fd5d001b81debb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530204300 +0000" stop="20210530210900 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Jamie's Quick &amp; Easy Food: Cerdo/Langostinos/Ñoquis/Tarta de queso</title>
+    <desc lang="en">Jamie empieza por preparar su rica Hamburguesa graciosa de cerdo, una pequeña maravilla que eleva la comida rápida a otro nivel. Luego vienen los Langostinos jugosos con mango, un plato rápido y sabroso para compartir.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/5f85ba3a4510e5001a935255/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530210900 +0000" stop="20210530213500 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Jamie's Quick &amp; Easy Food: Pollo/Ensalada/Pasta con cangrejo</title>
+    <desc lang="en">Jamie comienza con su sabrosísimo Pollo Tikka. Receta más rápida, imposible. A continuación, llega la intensa Ensalada de granada y zanahoria, un plato saludable y listo en unos minutos.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/5f85ba3b4510e5001a935261/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530213500 +0000" stop="20210530220100 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Jamie's Quick &amp; Easy Food: Carbonara de salchicha/Pollo picante</title>
+    <desc lang="en">Jamie llega con su práctica y rápida Carbonara fácil de salchichas, con ese toque picante que tanta potencia les da. Luego nos trae su Sopa roja de pollo tailandesa, un plato picante que no te supondrá ninguna complicación.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/5f85ba3a4510e5001a93524d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530220100 +0000" stop="20210530223100 +0000" channel="Pluto tv cocina es">
+    <title lang="en">Jamie's Quick &amp; Easy Food: Pollo al pesto/'Nduja/Salchichas asadas</title>
+    <desc lang="en">Jamie cocinará hoy su facilísimo Pollo hojaldrado al pesto, la forma más fácil de contentar a la familia. Luego le toca a su ‘Nduja picante con almejas, un sofisticado plato de pasta perfecto para una cena rápida.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530223100 +0000" stop="20210530225900 +0000" channel="Pluto tv cocina es">
+    <title lang="en">De la naturaleza a la mesa: Arándanos</title>
+    <desc lang="en">Millones de libras de arándanos comienzan su viaje global desde una granja de Nueva Escocia. Vea a un lote hacer su viaje desde el campo hasta el banquete de Acción de Gracias.(n)</desc>
+    <category lang="en">Instructional &amp; Educational</category>
+    <category lang="en">Cooking Instruction</category>
+    <icon src="https://images.pluto.tv/episodes/60799e15f96a44001a1d968b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530225900 +0000" stop="20210530233500 +0000" channel="Pluto tv cocina es">
+    <title lang="en">MEZCLA</title>
+    <desc lang="en">Tamee, visita 2 bares en Culver City, CA. que son extremadamente diferentes, pero tienen algo extrañamente en común. ¡Ambos comparten la misma dirección!(n)</desc>
+    <category lang="en">News and Information</category>
+    <category lang="en">Travel</category>
+    <icon src="https://images.pluto.tv/episodes/5feb394a42366e001a1f667a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530000000 +0000" stop="20210530083600 +0000" channel="Pluto tv cine accion es">
+    <title lang="en">Pluto TV Cine Acción</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20210530083600 +0000" stop="20210530101900 +0000" channel="Pluto tv cine accion es">
+    <title lang="en">Bestia de carga</title>
+    <desc lang="en">Sean sólo tiene una hora para entregar su carga ilegal. Una hora para convencer a un cartel, a un sicario y a la DEA de que todo está bien. Una hora para asegurarse de que su mujer sobrevive. Y debe hacerlo desde la cabina de mando de su avioneta.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Crime Action</category>
+    <icon src="https://images.pluto.tv/episodes/5f929ad3fe51e4001aac9dc9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530101900 +0000" stop="20210530115900 +0000" channel="Pluto tv cine accion es">
+    <title lang="en">El último patriota</title>
+    <desc lang="en">Un respetable médico experto en inmunología debe encontrar, de la forma más rápida, un antídoto para un virus letal liberado por el líder de una milicia.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Thrillers</category>
+    <icon src="https://images.pluto.tv/episodes/5f562df4f7db51001a3c5fbd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530115900 +0000" stop="20210530134400 +0000" channel="Pluto tv cine accion es">
+    <title lang="en">El aparecido</title>
+    <desc lang="en">Jake es asesinado por unos criminales del barrio y regresa como un espectro místico (el aparecido) para vengarse de ellos.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Thrillers</category>
+    <icon src="https://images.pluto.tv/episodes/5f96a1a715b9be001ada4daf/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530134400 +0000" stop="20210530163800 +0000" channel="Pluto tv cine accion es">
+    <title lang="en">Hasta donde los pies me llevan</title>
+    <desc lang="en">Años después de la II Guerra Mundial, el soldado alemán Clemens Forell huye de un campo de concentración de Siberia y emprende una larga y dramática huida a través de las heladas llanuras siberianas con la obsesión de regresar a su casa.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5f562dfaf7db51001a3c6014/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530163800 +0000" stop="20210530180800 +0000" channel="Pluto tv cine accion es">
+    <title lang="en">Hellboy: La Espada de las Tormentas</title>
+    <desc lang="en">Un profesor de mitología es poseído por los antiguos demonios japoneses, Trueno y Rayo.(n)</desc>
+    <category lang="en">Anime</category>
+    <category lang="en">Anime Action &amp; Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/6086b370c80199001ac637a8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210530180800 +0000" stop="20210530194300 +0000" channel="Pluto tv cine accion es">
+    <title lang="en">Llamarada solar</title>
+    <desc lang="en">Un experto en astrofísica descubre que una tormenta solar está a punto de ocurrir. En ese momento empieza una carrera contrarreloj para convencer al mundo de que hay que prepararse antes de que sea demasiado tarde.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Thrillers</category>
+    <icon src="https://images.pluto.tv/episodes/5f929abbfe51e4001aac9cd6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530194300 +0000" stop="20210530212500 +0000" channel="Pluto tv cine accion es">
+    <title lang="en">Megafault</title>
+    <desc lang="en">The late Brittany Murphy  stars In one of her final roles as a seismologist who must stop a devastating earthquake from ripping the Earth apart. Costars Eriq La Salle and Bruce Davison.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5ff4315b28abd1001a64062e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210530212500 +0000" stop="20210530230500 +0000" channel="Pluto tv cine accion es">
+    <title lang="en">Paintball</title>
+    <desc lang="en">Un grupo de desconocidos viaja hasta un recóndito lugar de la Europa del este. Son jóvenes, ambiciosos, emprendedores, y se han apuntado a un fin de semana de aventura y supervivencia, en busca de emociones fuertes.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Horror Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5cb7fa72a5001a5fd643/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+18</value>
+    </rating>
+  </programme>
   <programme start="20210530000000 +0000" stop="20210530094000 +0000" channel="Pluto TV Series es">
     <title lang="en">Pluto TV Series</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -2143,7 +3327,7 @@
   </programme>
   <programme start="20210530225600 +0000" stop="20210530234600 +0000" channel="Pluto TV Series es">
     <title lang="en">Historias Para No Dormir: La casa</title>
-    <desc lang="en">Según los del pueblo, la casa tiene una maldición, el fantasma de la condesa, su dueña, asesinada por su marido al enterarse de que le engañaba. Ahora se aparece por las noches asesinando a los jóvenes que se atreven a ir a la casa.(n)</desc>
+    <desc lang="en">Según los del pueblo, la casa tiene una maldición, el fantasma de la condesa, su dueña, asesinada por su marido al enterarse de que le engañaba. Ahora se aparece por las noches asesinando a los jóvenes que se atreven a ir a la casa.</desc>
     <category lang="en">Thrillers</category>
     <category lang="en">Crime Thrillers</category>
     <icon src="https://images.pluto.tv/episodes/5f527ec461f1b1001aff72ba/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -2153,7 +3337,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530094206 +0000" channel="Pluto TV Junior es">
     <title lang="en">Pluto TV Junior</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -2442,7 +3626,7 @@
   </programme>
   <programme start="20210530220806 +0000" stop="20210530223406 +0000" channel="Pluto TV Junior es">
     <title lang="en">Wallykazam</title>
-    <desc lang="en">El tio de Wally, Steve el Surcacielos, viene de visita con unas pompas mágicas que doblan aquello sobre lo que explotan. Cuando Bobgoblin se dobla una y otra vez, Wally debe impedir que los Bobgoblins se apoderen de la ciudad.(n)</desc>
+    <desc lang="en">El tio de Wally, Steve el Surcacielos, viene de visita con unas pompas mágicas que doblan aquello sobre lo que explotan. Cuando Bobgoblin se dobla una y otra vez, Wally debe impedir que los Bobgoblins se apoderen de la ciudad.</desc>
     <category lang="en">Children &amp; Family</category>
     <category lang="en">Family Classics</category>
     <icon src="https://images.pluto.tv/episodes/5fc632cf99839e0013e0b4d5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -2452,7 +3636,7 @@
   </programme>
   <programme start="20210530223406 +0000" stop="20210530230106 +0000" channel="Pluto TV Junior es">
     <title lang="en">Wallykazam</title>
-    <desc lang="en">El tio de Wally, Steve el Surcacielos, viene de visita con unas pompas mágicas que doblan aquello sobre lo que explotan. Cuando Bobgoblin se dobla una y otra vez, Wally debe impedir que los Bobgoblins se apoderen de la ciudad.(n)</desc>
+    <desc lang="en">El tio de Wally, Steve el Surcacielos, viene de visita con unas pompas mágicas que doblan aquello sobre lo que explotan. Cuando Bobgoblin se dobla una y otra vez, Wally debe impedir que los Bobgoblins se apoderen de la ciudad.</desc>
     <category lang="en">Children &amp; Family</category>
     <category lang="en">Family Classics</category>
     <icon src="https://images.pluto.tv/episodes/5fc632ce99839e0013e0b4c2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -2462,7 +3646,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530091700 +0000" channel="Asesinatos de Midsomer es">
     <title lang="en">Asesinatos de Midsomer</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -2541,7 +3725,7 @@
   </programme>
   <programme start="20210530222000 +0000" stop="20210531000900 +0000" channel="Asesinatos de Midsomer es">
     <title lang="en">Los asesinatos de Midsomer: La taberna de la doncella</title>
-    <desc lang="en">Tom Barnaby y Dan Scott investigan el asesinato por disparo de Jamie Cruikshank, camarero del Maid in Splendour, un pub de Midsomer Worthy que ahora pertenece a Stephen Bannerman, un odiado agente inmobiliario local con planes para el pub.(n)</desc>
+    <desc lang="en">Tom Barnaby y Dan Scott investigan el asesinato por disparo de Jamie Cruikshank, camarero del Maid in Splendour, un pub de Midsomer Worthy que ahora pertenece a Stephen Bannerman, un odiado agente inmobiliario local con planes para el pub.</desc>
     <category lang="en">Classics</category>
     <category lang="en">Classic Dramas</category>
     <icon src="https://images.pluto.tv/episodes/5f690bece4b56900138a0c65/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -2551,7 +3735,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530094300 +0000" channel="Big Time Rush es">
     <title lang="en">Big Time Rush</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -2860,7 +4044,7 @@
   </programme>
   <programme start="20210530220200 +0000" stop="20210530222600 +0000" channel="Big Time Rush es">
     <title lang="en">Big Time Rush: Grandes meteduras de pata</title>
-    <desc lang="en">Los chicos destruyen por accidente la cinta del nuevo episodio de Big Time Rush que debían entregar a la cadena. Para sustituir el episodio, los chicos deciden hacer un programa de tomas falsas con Stephen Glickman y Clara Bravo como presentadores.(n)</desc>
+    <desc lang="en">Los chicos destruyen por accidente la cinta del nuevo episodio de Big Time Rush que debían entregar a la cadena. Para sustituir el episodio, los chicos deciden hacer un programa de tomas falsas con Stephen Glickman y Clara Bravo como presentadores.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Showbiz Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5f69a7d95abba500136ad9d7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -2870,7 +4054,7 @@
   </programme>
   <programme start="20210530222600 +0000" stop="20210530225100 +0000" channel="Big Time Rush es">
     <title lang="en">Big Time Rush: La gran invasión</title>
-    <desc lang="en">¡BTR tiene que impedir la invasión de los grupos británicos de chicos! Ya que Gustavo está demasiado disperso, los chicos contratan a un agente musical famoso, pero al no ponerse de acuerdo, el grupo se disuelve y la brecha se acentúa en el grupo.(n)</desc>
+    <desc lang="en">¡BTR tiene que impedir la invasión de los grupos británicos de chicos! Ya que Gustavo está demasiado disperso, los chicos contratan a un agente musical famoso, pero al no ponerse de acuerdo, el grupo se disuelve y la brecha se acentúa en el grupo.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Showbiz Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5f69a7d15abba500136ad8fe/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -2880,7 +4064,7 @@
   </programme>
   <programme start="20210530225100 +0000" stop="20210530231500 +0000" channel="Big Time Rush es">
     <title lang="en">Big Time Rush: El gran escándalo</title>
-    <desc lang="en">Lucy publica su album de venganza contra Kendall con gran éxito. James, desesperado por llamar la atención, difunde el rumor de que va a grabar un duo con Cher Lloyd y Carlos recibe mala prensa al golpear, supuestamente, a una anciana.(n)</desc>
+    <desc lang="en">Lucy publica su album de venganza contra Kendall con gran éxito. James, desesperado por llamar la atención, difunde el rumor de que va a grabar un duo con Cher Lloyd y Carlos recibe mala prensa al golpear, supuestamente, a una anciana.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Showbiz Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5f69a7d15abba500136ad8e4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -2890,7 +4074,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530095854 +0000" channel="Pistas de Blue es">
     <title lang="en">Pistas de Blue</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1aa82c150b2500077733d7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -3169,7 +4353,7 @@
   </programme>
   <programme start="20210530221854 +0000" stop="20210530224554 +0000" channel="Pistas de Blue es">
     <title lang="en">Pistas de Blue: Episodio 12</title>
-    <desc lang="en">En Pistas de Blue resolveremos multitud de enigmas junto a Steve y a su perrita Blue. Interactúa con ellos y con sus amigos para ayudarles a descifrar las pistas de Blue.(n)</desc>
+    <desc lang="en">En Pistas de Blue resolveremos multitud de enigmas junto a Steve y a su perrita Blue. Interactúa con ellos y con sus amigos para ayudarles a descifrar las pistas de Blue.</desc>
     <category lang="en">Children &amp; Family</category>
     <category lang="en">Family Animation</category>
     <icon src="https://images.pluto.tv/episodes/6034bf1913a1a7001a73a6f7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -3179,7 +4363,7 @@
   </programme>
   <programme start="20210530224554 +0000" stop="20210530231254 +0000" channel="Pistas de Blue es">
     <title lang="en">Pistas de Blue: La hora de los cuentos de Blue</title>
-    <desc lang="en">Es la hora de los cuentos y Blue quiere leer su favorito, así que jugamos a las pistas de Blue para descubrir qué cuento es. Entre pistas ayudamos a Cubo y Pala a hacer 'Jack y Jill', organizamos nuestro álbum de fotos y ayudamos a los tres osos.(n)</desc>
+    <desc lang="en">Es la hora de los cuentos y Blue quiere leer su favorito, así que jugamos a las pistas de Blue para descubrir qué cuento es. Entre pistas ayudamos a Cubo y Pala a hacer 'Jack y Jill', organizamos nuestro álbum de fotos y ayudamos a los tres osos.</desc>
     <category lang="en">Children &amp; Family</category>
     <category lang="en">Family Animation</category>
     <icon src="https://images.pluto.tv/episodes/6034bf1913a1a7001a73a701/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -3189,7 +4373,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530095601 +0000" channel="Go Diego Go! es">
     <title lang="en">Go Diego Go!</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1aa89d42a0500007363ea3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -3478,7 +4662,7 @@
   </programme>
   <programme start="20210530222101 +0000" stop="20210530224801 +0000" channel="Go Diego Go! es">
     <title lang="en">Go, Diego, Go!: La Iguana verde ayuda al Abuelito a plantar fresas</title>
-    <desc lang="en">Es la estación de las fresas y va a ser el Festival de las Fresas de Abuelito. Pero cuando el viento lanza todas las fresas lejos, Alicia tiene que pedirle ayuda a Diego.(n)</desc>
+    <desc lang="en">Es la estación de las fresas y va a ser el Festival de las Fresas de Abuelito. Pero cuando el viento lanza todas las fresas lejos, Alicia tiene que pedirle ayuda a Diego.</desc>
     <category lang="en">Children &amp; Family</category>
     <category lang="en">Family Animation</category>
     <icon src="https://images.pluto.tv/episodes/5f647ac75e6bed001a9d1b03/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -3488,7 +4672,7 @@
   </programme>
   <programme start="20210530224801 +0000" stop="20210530231401 +0000" channel="Go Diego Go! es">
     <title lang="en">Go, Diego, Go!: Bienvenido a casa, cachorrito</title>
-    <desc lang="en">Los leones hacen una fiesta de bienvenida a Cachorro León. Cuando Diego, Bebé Jaguar y los leones salen de allí, descubren que algunos leones pequeños encontraron problemas de camino a la fiesta. Diego y Papá Leon tienen que ayudarles.(n)</desc>
+    <desc lang="en">Los leones hacen una fiesta de bienvenida a Cachorro León. Cuando Diego, Bebé Jaguar y los leones salen de allí, descubren que algunos leones pequeños encontraron problemas de camino a la fiesta. Diego y Papá Leon tienen que ayudarles.</desc>
     <category lang="en">Children &amp; Family</category>
     <category lang="en">Family Animation</category>
     <icon src="https://images.pluto.tv/episodes/5f6467d5f9b76300145b1e13/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -3498,7 +4682,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530095931 +0000" channel="Pluto TV Kids es">
     <title lang="en">Pluto TV Kids</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -3797,7 +4981,7 @@
   </programme>
   <programme start="20210530220331 +0000" stop="20210530222831 +0000" channel="Pluto TV Kids es">
     <title lang="en">Bella y los Bulldogs</title>
-    <desc lang="en">Troy ayuda a su equipo nuevo a burlarse de los Bulldogs antes del gran partido. Cuando ve que sus nuevos compañeros juegan sucio, tiene que decidir en qué bando situarse.(n)</desc>
+    <desc lang="en">Troy ayuda a su equipo nuevo a burlarse de los Bulldogs antes del gran partido. Cuando ve que sus nuevos compañeros juegan sucio, tiene que decidir en qué bando situarse.</desc>
     <category lang="en">Children &amp; Family</category>
     <category lang="en">Family Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5fc60ca94926fb00133b8268/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -3807,7 +4991,7 @@
   </programme>
   <programme start="20210530222831 +0000" stop="20210530225331 +0000" channel="Pluto TV Kids es">
     <title lang="en">Bella y los Bulldogs</title>
-    <desc lang="en">Los Bulldogs chantajean a Bella al saber que se ha saltado una actividad de equipo para ir a un concierto de Hunter Hayes. Mientras, Pepper intenta conseguir una entrevista con Hunter para el programa de la escuela. Actor invitado: Hunter Hayes.(n)</desc>
+    <desc lang="en">Los Bulldogs chantajean a Bella al saber que se ha saltado una actividad de equipo para ir a un concierto de Hunter Hayes. Mientras, Pepper intenta conseguir una entrevista con Hunter para el programa de la escuela. Actor invitado: Hunter Hayes.</desc>
     <category lang="en">Children &amp; Family</category>
     <category lang="en">Family Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5fc60ca94926fb00133b823b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -3817,7 +5001,7 @@
   </programme>
   <programme start="20210530225331 +0000" stop="20210530231831 +0000" channel="Pluto TV Kids es">
     <title lang="en">Bella y los Bulldogs</title>
-    <desc lang="en">Bella se interesa por el primo de Sawyer, pero un incidente de su pasado pone en peligro su creciente amistad. Sophie, Troy y Newt intentan salvar a unos pollitos de un destino fatal.(n)</desc>
+    <desc lang="en">Bella se interesa por el primo de Sawyer, pero un incidente de su pasado pone en peligro su creciente amistad. Sophie, Troy y Newt intentan salvar a unos pollitos de un destino fatal.</desc>
     <category lang="en">Children &amp; Family</category>
     <category lang="en">Family Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5fec4d82c8c57d00131f4ff1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -3827,7 +5011,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530093500 +0000" channel="Pluto TV Animakids es">
     <title lang="en">Pluto TV Animakids</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -4136,7 +5320,7 @@
   </programme>
   <programme start="20210530222500 +0000" stop="20210530225000 +0000" channel="Pluto TV Animakids es">
     <title lang="en">El Corral. Una Fiesta Muy Bestia: Salvar a la Señora Beady / El granjero se echa novia</title>
-    <desc lang="en">Los animales meten por accidente a la Sra. Beady en un psiquiátrico, pero sienten lástima por ella e intentan rescatarla. Otis y la pandilla deciden buscarle novia al granjero para que puedan montar otra juerga.(n)</desc>
+    <desc lang="en">Los animales meten por accidente a la Sra. Beady en un psiquiátrico, pero sienten lástima por ella e intentan rescatarla. Otis y la pandilla deciden buscarle novia al granjero para que puedan montar otra juerga.</desc>
     <category lang="en">Children &amp; Family</category>
     <category lang="en">Family Animation</category>
     <icon src="https://images.pluto.tv/episodes/5f85492a7f692c001a4df5a5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -4146,7 +5330,7 @@
   </programme>
   <programme start="20210530225000 +0000" stop="20210530231500 +0000" channel="Pluto TV Animakids es">
     <title lang="en">El Corral. Una Fiesta Muy Bestia: Dos Mocosos Muy Mocosos / Llamando al Dr. Filly</title>
-    <desc lang="en">Los animales deben ayudar a Mocoso para poder sobrevivir a la visita de su malvado primo. Los animales buscan ayuda de un escritor de libros de autoayuda para aconsejar a Freddy y Pico.(n)</desc>
+    <desc lang="en">Los animales deben ayudar a Mocoso para poder sobrevivir a la visita de su malvado primo. Los animales buscan ayuda de un escritor de libros de autoayuda para aconsejar a Freddy y Pico.</desc>
     <category lang="en">Children &amp; Family</category>
     <category lang="en">Family Animation</category>
     <icon src="https://images.pluto.tv/episodes/5fca00c3c4c935001afa1fad/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -4156,7 +5340,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530095900 +0000" channel="MTV Originals es">
     <title lang="en">MTV Originals</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -4365,7 +5549,7 @@
   </programme>
   <programme start="20210530223600 +0000" stop="20210530230000 +0000" channel="MTV Originals es">
     <title lang="en">Death Valley: Episodio 102</title>
-    <desc lang="en">Stubeck está muy preocupado tras la puesta en libertad de una prostituta vampira que estaba en el calabozo. Mientras, unos adolescentes justicieros salen por su cuenta a la caza de zombis y Dashell lleva a Kirsten a una visita de campo.(n)</desc>
+    <desc lang="en">Stubeck está muy preocupado tras la puesta en libertad de una prostituta vampira que estaba en el calabozo. Mientras, unos adolescentes justicieros salen por su cuenta a la caza de zombis y Dashell lleva a Kirsten a una visita de campo.</desc>
     <category lang="en">News and Information</category>
     <category lang="en">Entertaining</category>
     <icon src="https://images.pluto.tv/episodes/606d8bd0f96a44001a1c8c63/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -4375,7 +5559,7 @@
   </programme>
   <programme start="20210530230000 +0000" stop="20210530234500 +0000" channel="MTV Originals es">
     <title lang="en">The Challenge: Vendettas: Los rumores dicen que</title>
-    <desc lang="en">Cuando se descubre una conexión secreta, dos romances se rompen y toda la casa se pone boca arriba. Tony tiene problemas para tomar una gran decisión del juego.(n)</desc>
+    <desc lang="en">Cuando se descubre una conexión secreta, dos romances se rompen y toda la casa se pone boca arriba. Tony tiene problemas para tomar una gran decisión del juego.</desc>
     <category lang="en">News and Information</category>
     <category lang="en">Entertaining</category>
     <icon src="https://images.pluto.tv/episodes/5f30f5e7c88558001324215b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -4385,7 +5569,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530094200 +0000" channel="TROL es">
     <title lang="en">TROL</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1aae8c65727d0007d15a17/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -4674,7 +5858,7 @@
   </programme>
   <programme start="20210530221900 +0000" stop="20210530224600 +0000" channel="TROL es">
     <title lang="en">Clickbait: Episodio 117</title>
-    <desc lang="en">Programa de entretenimiento para los adictos a las redes sociales. Repasamos los mejores, más divertidos y más locos vídeos virales, es decir, aquellos que han tomado Internet, se han compartido de pantalla a pantalla y que, ahora también, llegan a MTV.(n)</desc>
+    <desc lang="en">Programa de entretenimiento para los adictos a las redes sociales. Repasamos los mejores, más divertidos y más locos vídeos virales, es decir, aquellos que han tomado Internet, se han compartido de pantalla a pantalla y que, ahora también, llegan a MTV.</desc>
     <category lang="en">News and Information</category>
     <category lang="en">Entertaining</category>
     <icon src="https://images.pluto.tv/episodes/5f30f5b8c885580013241c2b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -4684,7 +5868,7 @@
   </programme>
   <programme start="20210530224600 +0000" stop="20210530231400 +0000" channel="TROL es">
     <title lang="en">Clickbait: Episodio 103</title>
-    <desc lang="en">Programa de entretenimiento para los adictos a las redes sociales. Repasamos los mejores, más divertidos y más locos vídeos virales, es decir, aquellos que han tomado Internet, se han compartido de pantalla a pantalla y que, ahora también, llegan a MTV.(n)</desc>
+    <desc lang="en">Programa de entretenimiento para los adictos a las redes sociales. Repasamos los mejores, más divertidos y más locos vídeos virales, es decir, aquellos que han tomado Internet, se han compartido de pantalla a pantalla y que, ahora también, llegan a MTV.</desc>
     <category lang="en">News and Information</category>
     <category lang="en">Entertaining</category>
     <icon src="https://images.pluto.tv/episodes/5f30f5b0c885580013241b36/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -4694,7 +5878,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530091500 +0000" channel="MADE es">
     <title lang="en">MADE</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1aaefb96f755000733c11a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -4873,7 +6057,7 @@
   </programme>
   <programme start="20210530221500 +0000" stop="20210530230000 +0000" channel="MADE es">
     <title lang="en">Made quiero cambiar</title>
-    <desc lang="en">Un patito feo se transforma en la reina de la fiesta, alguien con sobrepeso se convierte en modelo, el empollón de la clase se hace rapero... Con motivación, dedicación y un poco de nuestra ayuda, en 'Made' los sueños de los jóvenes se hacen realidad.(n)</desc>
+    <desc lang="en">Un patito feo se transforma en la reina de la fiesta, alguien con sobrepeso se convierte en modelo, el empollón de la clase se hace rapero... Con motivación, dedicación y un poco de nuestra ayuda, en 'Made' los sueños de los jóvenes se hacen realidad.</desc>
     <category lang="en">News and Information</category>
     <category lang="en">Entertaining</category>
     <icon src="https://images.pluto.tv/episodes/5ff5b97700da4e0013895742/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -4883,7 +6067,7 @@
   </programme>
   <programme start="20210530230000 +0000" stop="20210530234600 +0000" channel="MADE es">
     <title lang="en">Made quiero cambiar</title>
-    <desc lang="en">Un patito feo se transforma en la reina de la fiesta, alguien con sobrepeso se convierte en modelo, el empollón de la clase se hace rapero... Con motivación, dedicación y un poco de nuestra ayuda, en 'Made' los sueños de los jóvenes se hacen realidad.(n)</desc>
+    <desc lang="en">Un patito feo se transforma en la reina de la fiesta, alguien con sobrepeso se convierte en modelo, el empollón de la clase se hace rapero... Con motivación, dedicación y un poco de nuestra ayuda, en 'Made' los sueños de los jóvenes se hacen realidad.</desc>
     <category lang="en">Documentaries</category>
     <category lang="en">Biographical Documentaries</category>
     <icon src="https://images.pluto.tv/episodes/5fd72c4bb27a60001b29a1a2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -4893,7 +6077,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530092900 +0000" channel="MTV Catfish TV Show es">
     <title lang="en">MTV Catfish TV Show</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -5062,7 +6246,7 @@
   </programme>
   <programme start="20210530223300 +0000" stop="20210530232200 +0000" channel="MTV Catfish TV Show es">
     <title lang="en">Catfish: mentiras en la red: Hundra &amp; Emily</title>
-    <desc lang="en">Hundra nunca pensó que se enamoraría de una chica y sin embargo se está arriesgando a salir en TV para saber su amor con Emily es real. Machine Gun Kelly estará de invitado especial y se unirá a Nev y Max para descubrir este impactante Catfish.(n)</desc>
+    <desc lang="en">Hundra nunca pensó que se enamoraría de una chica y sin embargo se está arriesgando a salir en TV para saber su amor con Emily es real. Machine Gun Kelly estará de invitado especial y se unirá a Nev y Max para descubrir este impactante Catfish.</desc>
     <category lang="en">News and Information</category>
     <category lang="en">Entertaining</category>
     <icon src="https://images.pluto.tv/episodes/5f3a2969336b4e001a2db583/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -5072,7 +6256,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530095600 +0000" channel="MTV Cribs es">
     <title lang="en">MTV Cribs</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -5401,7 +6585,7 @@
   </programme>
   <programme start="20210530221900 +0000" stop="20210530224200 +0000" channel="MTV Cribs es">
     <title lang="en">Mega Casas: Episodio 104</title>
-    <desc lang="en">Recorre los sinuosos túneles de la casa de Natalia en México; sigue a Stephanie a través de su casa de arte popular; y entra en la antigua oficina de correos de Trey, que se ha convertido en una casa acogedora.(n)</desc>
+    <desc lang="en">Recorre los sinuosos túneles de la casa de Natalia en México; sigue a Stephanie a través de su casa de arte popular; y entra en la antigua oficina de correos de Trey, que se ha convertido en una casa acogedora.</desc>
     <category lang="en">News and Information</category>
     <category lang="en">Entertaining</category>
     <icon src="https://images.pluto.tv/episodes/5f3e1dd917dc86001a7906e3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -5411,7 +6595,7 @@
   </programme>
   <programme start="20210530224200 +0000" stop="20210530230500 +0000" channel="MTV Cribs es">
     <title lang="en">Mega Casas: Episodio 101</title>
-    <desc lang="en">Acurrúcate en la naturaleza con Sam en una casa en los árboles. Vive la fantasía en una casa medieval con Brittney y Meghan.(n)</desc>
+    <desc lang="en">Acurrúcate en la naturaleza con Sam en una casa en los árboles. Vive la fantasía en una casa medieval con Brittney y Meghan.</desc>
     <category lang="en">News and Information</category>
     <category lang="en">Entertaining</category>
     <icon src="https://images.pluto.tv/episodes/5f3e1dd917dc86001a79071e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -5421,7 +6605,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530091300 +0000" channel="Comedia made in Spain es">
     <title lang="en">Comedia made in Spain</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1abce155a03d0007718834/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -5690,7 +6874,7 @@
   </programme>
   <programme start="20210530221100 +0000" stop="20210530223800 +0000" channel="Comedia made in Spain es">
     <title lang="en">Central de Cómicos</title>
-    <desc lang="en">En este monólogo, Kaco analiza la televisión, el cine y la religión católica desde un punto de vista muy alternativo y original.(n)</desc>
+    <desc lang="en">En este monólogo, Kaco analiza la televisión, el cine y la religión católica desde un punto de vista muy alternativo y original.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Stand-Up</category>
     <icon src="https://images.pluto.tv/episodes/60376728ea7ac5001a91831c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -5700,7 +6884,7 @@
   </programme>
   <programme start="20210530223800 +0000" stop="20210530230400 +0000" channel="Comedia made in Spain es">
     <title lang="en">Central de Cómicos</title>
-    <desc lang="en">Este cómico malagueño nos habla en su primer monólogo sobre las manías de su padre, los caprichos de su novia y el lenguaje de los taxistas.(n)</desc>
+    <desc lang="en">Este cómico malagueño nos habla en su primer monólogo sobre las manías de su padre, los caprichos de su novia y el lenguaje de los taxistas.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Stand-Up</category>
     <icon src="https://images.pluto.tv/episodes/60376728ea7ac5001a918307/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -5710,7 +6894,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530090900 +0000" channel="Real Life es">
     <title lang="en">Real Life</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1abdceddf6a20007f8ccd2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -5899,7 +7083,7 @@
   </programme>
   <programme start="20210530221600 +0000" stop="20210530230400 +0000" channel="Real Life es">
     <title lang="en">Mi vida</title>
-    <desc lang="en">Historias reales de gente joven que habita en entornos complicados o tiene vidas inusuales.(n)</desc>
+    <desc lang="en">Historias reales de gente joven que habita en entornos complicados o tiene vidas inusuales.</desc>
     <category lang="en">News and Information</category>
     <category lang="en">Entertaining</category>
     <icon src="https://images.pluto.tv/episodes/5fb399fd9d991c001a9e32d0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -5909,7 +7093,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530094700 +0000" channel="La Chica Invisible es">
     <title lang="en">La Chica Invisible</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1abe3ffcd659000770d88d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -6218,7 +7402,7 @@
   </programme>
   <programme start="20210530221800 +0000" stop="20210530224200 +0000" channel="La Chica Invisible es">
     <title lang="en">La Chica Invisible: La historia se repite</title>
-    <desc lang="en">Jake se enfada bastante cuando se entera de lo que hubo entre Jenna y Matty y rompe con ella, argumentando que "no es el momento adecuado". En la boda de Ally, la madre de Jenna baila con su exnovio.(n)</desc>
+    <desc lang="en">Jake se enfada bastante cuando se entera de lo que hubo entre Jenna y Matty y rompe con ella, argumentando que "no es el momento adecuado". En la boda de Ally, la madre de Jenna baila con su exnovio.</desc>
     <category lang="en">News and Information</category>
     <category lang="en">Entertaining</category>
     <icon src="https://images.pluto.tv/episodes/5f436d329dd795001ab4a6ca/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -6228,7 +7412,7 @@
   </programme>
   <programme start="20210530224200 +0000" stop="20210530230600 +0000" channel="La Chica Invisible es">
     <title lang="en">La Chica Invisible: Rompehogares Hamilton</title>
-    <desc lang="en">Jenna intenta desesperadamente arreglar las cosas con Jake, pero éste ya está convencido de que Jenna es una adúltera empedernida; hasta tiene fotos de lo que sucedió la noche anterior.(n)</desc>
+    <desc lang="en">Jenna intenta desesperadamente arreglar las cosas con Jake, pero éste ya está convencido de que Jenna es una adúltera empedernida; hasta tiene fotos de lo que sucedió la noche anterior.</desc>
     <category lang="en">News and Information</category>
     <category lang="en">Entertaining</category>
     <icon src="https://images.pluto.tv/episodes/5f436d3a9dd795001ab4a766/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -6238,7 +7422,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530095400 +0000" channel="The Pet Collective es">
     <title lang="en">The Pet Collective</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1abf097eb06300079b30f7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -6487,7 +7671,7 @@
   </programme>
   <programme start="20210530222700 +0000" stop="20210530225900 +0000" channel="The Pet Collective es">
     <title lang="en">Applause for Paws: Cuteness on the Loose</title>
-    <desc lang="en">Funny, adorable, and even educational clips featuring all the animals we can't get enough of!(n)</desc>
+    <desc lang="en">Funny, adorable, and even educational clips featuring all the animals we can't get enough of!</desc>
     <category lang="en">Other</category>
     <category lang="en">None</category>
     <icon src="https://images.pluto.tv/episodes/5f36730174970200133e68b6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -6497,7 +7681,7 @@
   </programme>
   <programme start="20210530225900 +0000" stop="20210530233100 +0000" channel="The Pet Collective es">
     <title lang="en">Applause for Paws: Bunnies and Buddies</title>
-    <desc lang="en">Funny, adorable, and even educational clips featuring all the animals we can't get enough of!(n)</desc>
+    <desc lang="en">Funny, adorable, and even educational clips featuring all the animals we can't get enough of!</desc>
     <category lang="en">Other</category>
     <category lang="en">None</category>
     <icon src="https://images.pluto.tv/episodes/5f3672f374970200133e6686/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -6507,7 +7691,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530093000 +0000" channel="FailArmy es">
     <title lang="en">FailArmy</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -6776,7 +7960,7 @@
   </programme>
   <programme start="20210530223000 +0000" stop="20210530230000 +0000" channel="FailArmy es">
     <title lang="en">FailFactory: Odd Balls</title>
-    <desc lang="en">Sports are 90% mental. The other half are fails.(n)</desc>
+    <desc lang="en">Sports are 90% mental. The other half are fails.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Fails &amp; Pranks</category>
     <icon src="https://images.pluto.tv/episodes/5f36462e336b4e001a2d6c07/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -6786,7 +7970,7 @@
   </programme>
   <programme start="20210530230000 +0000" stop="20210530233000 +0000" channel="FailArmy es">
     <title lang="en">FailFactory: Family Fued</title>
-    <desc lang="en">Every family member has their flaws. We put them on display in this episode.(n)</desc>
+    <desc lang="en">Every family member has their flaws. We put them on display in this episode.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Fails &amp; Pranks</category>
     <icon src="https://images.pluto.tv/episodes/5f36462f336b4e001a2d6c1d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -6796,7 +7980,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530094600 +0000" channel="IGN es">
     <title lang="en">IGN</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1ac118dd7e6000077e31af/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -6885,7 +8069,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530093000 +0000" channel="People are Awesome es">
     <title lang="en">People are Awesome</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1ac1780e94100007f94b3f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -7154,7 +8338,7 @@
   </programme>
   <programme start="20210530223000 +0000" stop="20210530230000 +0000" channel="People are Awesome es">
     <title lang="en">Exhibition Awesome</title>
-    <desc lang="en">Whether jumping on a trampoline or from a plane, these athletes get some serious air.(n)</desc>
+    <desc lang="en">Whether jumping on a trampoline or from a plane, these athletes get some serious air.</desc>
     <category lang="en">Documentaries</category>
     <category lang="en">Miscellaneous Documentaries</category>
     <icon src="https://images.pluto.tv/episodes/5f36735a63683d00138a5c7b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -7164,7 +8348,7 @@
   </programme>
   <programme start="20210530230000 +0000" stop="20210530233000 +0000" channel="People are Awesome es">
     <title lang="en">Exhibition Awesome</title>
-    <desc lang="en">Time in the gym is time well spent!(n)</desc>
+    <desc lang="en">Time in the gym is time well spent!</desc>
     <category lang="en">Documentaries</category>
     <category lang="en">Miscellaneous Documentaries</category>
     <icon src="https://images.pluto.tv/episodes/5f36734563683d00138a5b64/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -7174,7 +8358,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530092900 +0000" channel="Pluto TV Cine es">
     <title lang="en">Pluto TV Cine Estelar</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -7342,7 +8526,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530090400 +0000" channel="Pluto TV Cine Comedia es">
     <title lang="en">Pluto TV Cine Comedia</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -7431,7 +8615,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530090600 +0000" channel="Pluto TV Action Sports es">
     <title lang="en">Pluto TV Action Sports</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -7517,7 +8701,7 @@
   </programme>
   <programme start="20210530224400 +0000" stop="20210530233600 +0000" channel="Pluto TV Action Sports es">
     <title lang="en">Secrets of Dark Fest</title>
-    <desc lang="en">Diez de los mejores MTB riders se reúnen para competir en el "Dark Fest" de Sudáfrica, un evento único y ambicioso para los free riders.(n)</desc>
+    <desc lang="en">Diez de los mejores MTB riders se reúnen para competir en el "Dark Fest" de Sudáfrica, un evento único y ambicioso para los free riders.</desc>
     <category lang="en">News and Information</category>
     <category lang="en">Sports &amp; Sports Highlights</category>
     <icon src="https://images.pluto.tv/episodes/60894a978213d1001a537b87/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -7527,7 +8711,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530093200 +0000" channel="Pluto TV Thrillers es">
     <title lang="en">Pluto TV Thrillers</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -7794,7 +8978,7 @@
   </programme>
   <programme start="20210530223500 +0000" stop="20210531004500 +0000" channel="Pluto TV Cine Romántico es">
     <title lang="en">Save the Last Dance</title>
-    <desc lang="en">Una chica que sueña con ser bailarina clásica conoce a un chico que la introduce en la cultura del hip-hop.(n)</desc>
+    <desc lang="en">Una chica que sueña con ser bailarina clásica conoce a un chico que la introduce en la cultura del hip-hop.</desc>
     <category lang="en">Musicals</category>
     <category lang="en">Must-See Musicals</category>
     <icon src="https://images.pluto.tv/episodes/5f6af5526a5806001378144e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -7804,7 +8988,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530093000 +0000" channel="Las reglas del juego es">
     <title lang="en">Las reglas del juego</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -7973,7 +9157,7 @@
   </programme>
   <programme start="20210530225000 +0000" stop="20210530234000 +0000" channel="Las reglas del juego es">
     <title lang="en">Las Reglas Del Juego: El golpe de los tres días del cazador</title>
-    <desc lang="en">La tripulación se sumerge en el mundo paranoico de las conspiraciones del gobierno para exponer a un periodista sensacionalista como un fraude.(n)</desc>
+    <desc lang="en">La tripulación se sumerge en el mundo paranoico de las conspiraciones del gobierno para exponer a un periodista sensacionalista como un fraude.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Crime Action</category>
     <icon src="https://images.pluto.tv/episodes/5f33a55f4fd476001b738096/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -7983,7 +9167,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530094200 +0000" channel="Los nuevos detectives es">
     <title lang="en">Los nuevos detectives</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -8132,7 +9316,7 @@
   </programme>
   <programme start="20210530225700 +0000" stop="20210530235900 +0000" channel="Los nuevos detectives es">
     <title lang="en">The New Detectives: Semillas de destrucción</title>
-    <desc lang="en">Botánica forense y geología: las plantas ayudan a proporcionar oxígeno y nutrientes para la existencia. El suelo es el abono de la vida. Sin embargo, ambos pueden dar pistas sobre la hora y el lugar de la muerte de una persona.(n)</desc>
+    <desc lang="en">Botánica forense y geología: las plantas ayudan a proporcionar oxígeno y nutrientes para la existencia. El suelo es el abono de la vida. Sin embargo, ambos pueden dar pistas sobre la hora y el lugar de la muerte de una persona.</desc>
     <category lang="en">Documentaries</category>
     <category lang="en">Crime Documentaries</category>
     <icon src="https://images.pluto.tv/episodes/5f4f88a3fa72a5001a5fe2f3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -8142,7 +9326,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530092500 +0000" channel="Los archivos del FBI es">
     <title lang="en">Los archivos del FBI</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -8281,7 +9465,7 @@
   </programme>
   <programme start="20210530220900 +0000" stop="20210530230900 +0000" channel="Los archivos del FBI es">
     <title lang="en">Los archivos del FBI: Muerte en el Rio</title>
-    <desc lang="en">En Memphis, Tennessee, un horrible crimen dejó aterrados a los residentes de la zona. Cuando una madre joven y acaudalada fue secuestrada frente a la casa de sus suegros, la policía tenía muchos sospechosos.(n)</desc>
+    <desc lang="en">En Memphis, Tennessee, un horrible crimen dejó aterrados a los residentes de la zona. Cuando una madre joven y acaudalada fue secuestrada frente a la casa de sus suegros, la policía tenía muchos sospechosos.</desc>
     <category lang="en">Documentaries</category>
     <category lang="en">Crime Documentaries</category>
     <icon src="https://images.pluto.tv/episodes/5f4fc0f91629e7001abe9b25/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -8291,7 +9475,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530095400 +0000" channel="Andrómeda es">
     <title lang="en">Andrómeda</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1acc3e061597000768d4ea/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -8450,7 +9634,7 @@
   </programme>
   <programme start="20210530224200 +0000" stop="20210530233300 +0000" channel="Andrómeda es">
     <title lang="en">Andrómeda</title>
-    <desc lang="en">Dylan se hace cargo de una barcaza turística en un intento de escapar de mercenarios.(n)</desc>
+    <desc lang="en">Dylan se hace cargo de una barcaza turística en un intento de escapar de mercenarios.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Sci-Fi Adventure</category>
     <icon src="https://images.pluto.tv/episodes/5f8946e790fbf4001aa380a7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -8460,7 +9644,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530094600 +0000" channel="Mutante X es">
     <title lang="en">Mutante X</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -8619,7 +9803,7 @@
   </programme>
   <programme start="20210530220100 +0000" stop="20210530225000 +0000" channel="Mutante X es">
     <title lang="en">Mutante X</title>
-    <desc lang="en">Mutante X se encuentra con una nueva facción de Nuevos Mutantes llamada Strand, liderada por el poderoso primer mutante Gabriel Ashlocke.(n)</desc>
+    <desc lang="en">Mutante X se encuentra con una nueva facción de Nuevos Mutantes llamada Strand, liderada por el poderoso primer mutante Gabriel Ashlocke.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Sci-Fi Adventure</category>
     <icon src="https://images.pluto.tv/episodes/5f8946d490fbf4001aa37eb6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -8629,7 +9813,7 @@
   </programme>
   <programme start="20210530225000 +0000" stop="20210530233900 +0000" channel="Mutante X es">
     <title lang="en">Mutante X</title>
-    <desc lang="en">En un intento desesperado por salvar su propia vida, Ashlocke revive a un antiguo alquimista egipcio que representa una amenaza letal para el equipo Mutante X.(n)</desc>
+    <desc lang="en">En un intento desesperado por salvar su propia vida, Ashlocke revive a un antiguo alquimista egipcio que representa una amenaza letal para el equipo Mutante X.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Sci-Fi Adventure</category>
     <icon src="https://images.pluto.tv/episodes/5fa2658e1a4cc500073253c5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -8758,7 +9942,7 @@
   </programme>
   <programme start="20210530221700 +0000" stop="20210530232800 +0000" channel="Ana y los 7 es">
     <title lang="en">Ana y los 7: Banquero al whisky</title>
-    <desc lang="en">Carolina, la hija mayor de Fernando, se siente fuertemente atraída por León, un joven que compagina su trabajo como mensajero con ocasionales actuaciones musicales. Carolina aprovecha la fiesta de su hermana Celia para presentar a León a su padre.(n)</desc>
+    <desc lang="en">Carolina, la hija mayor de Fernando, se siente fuertemente atraída por León, un joven que compagina su trabajo como mensajero con ocasionales actuaciones musicales. Carolina aprovecha la fiesta de su hermana Celia para presentar a León a su padre.</desc>
     <category lang="en">Classics</category>
     <category lang="en">Classic Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5f562dbcf7db51001a3c5b1a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -8768,7 +9952,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530094100 +0000" channel="Curro Jiménez es">
     <title lang="en">Curro Jiménez</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -8897,7 +10081,7 @@
   </programme>
   <programme start="20210530225800 +0000" stop="20210531000200 +0000" channel="Curro Jiménez es">
     <title lang="en">Curro Jiménez: Una larga ausencia</title>
-    <desc lang="en">Un hombre perseguido por la justicia es indultado por haber capturado al verdadero delincuente. Tras dos años de ausencia llega a su casa, donde se encuentra con que su hermanastro se ha apoderado de su finca y de su legítima esposa.(n)</desc>
+    <desc lang="en">Un hombre perseguido por la justicia es indultado por haber capturado al verdadero delincuente. Tras dos años de ausencia llega a su casa, donde se encuentra con que su hermanastro se ha apoderado de su finca y de su legítima esposa.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action Classics</category>
     <icon src="https://images.pluto.tv/episodes/5f4f5ca5fa72a5001a5fd448/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -8907,7 +10091,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530092300 +0000" channel="Pluto TV Cocina es">
     <title lang="en">Pluto TV Cocina</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -9146,7 +10330,7 @@
   </programme>
   <programme start="20210530220100 +0000" stop="20210530223100 +0000" channel="Pluto TV Cocina es">
     <title lang="en">Jamie's Quick &amp; Easy Food: Pollo al pesto/'Nduja/Salchichas asadas</title>
-    <desc lang="en">Jamie cocinará hoy su facilísimo Pollo hojaldrado al pesto, la forma más fácil de contentar a la familia. Luego le toca a su ‘Nduja picante con almejas, un sofisticado plato de pasta perfecto para una cena rápida.(n)</desc>
+    <desc lang="en">Jamie cocinará hoy su facilísimo Pollo hojaldrado al pesto, la forma más fácil de contentar a la familia. Luego le toca a su ‘Nduja picante con almejas, un sofisticado plato de pasta perfecto para una cena rápida.</desc>
     <category lang="en">Instructional &amp; Educational</category>
     <category lang="en">Cooking Instruction</category>
     <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -9156,7 +10340,7 @@
   </programme>
   <programme start="20210530223100 +0000" stop="20210530225900 +0000" channel="Pluto TV Cocina es">
     <title lang="en">De la naturaleza a la mesa: Arándanos</title>
-    <desc lang="en">Millones de libras de arándanos comienzan su viaje global desde una granja de Nueva Escocia. Vea a un lote hacer su viaje desde el campo hasta el banquete de Acción de Gracias.(n)</desc>
+    <desc lang="en">Millones de libras de arándanos comienzan su viaje global desde una granja de Nueva Escocia. Vea a un lote hacer su viaje desde el campo hasta el banquete de Acción de Gracias.</desc>
     <category lang="en">Instructional &amp; Educational</category>
     <category lang="en">Cooking Instruction</category>
     <icon src="https://images.pluto.tv/episodes/60799e15f96a44001a1d968b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -9166,7 +10350,7 @@
   </programme>
   <programme start="20210530225900 +0000" stop="20210530233500 +0000" channel="Pluto TV Cocina es">
     <title lang="en">MEZCLA</title>
-    <desc lang="en">Tamee, visita 2 bares en Culver City, CA. que son extremadamente diferentes, pero tienen algo extrañamente en común. ¡Ambos comparten la misma dirección!(n)</desc>
+    <desc lang="en">Tamee, visita 2 bares en Culver City, CA. que son extremadamente diferentes, pero tienen algo extrañamente en común. ¡Ambos comparten la misma dirección!</desc>
     <category lang="en">News and Information</category>
     <category lang="en">Travel</category>
     <icon src="https://images.pluto.tv/episodes/5feb394a42366e001a1f667a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -9176,7 +10360,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530094900 +0000" channel="Pluto TV Mundo Real es">
     <title lang="en">Pluto TV Mundo Real</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1acdfda84c970007e750b5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -9395,7 +10579,7 @@
   </programme>
   <programme start="20210530223200 +0000" stop="20210530225100 +0000" channel="Pluto TV Mundo Real es">
     <title lang="en">Encore Sessions</title>
-    <desc lang="en">¡La presentadora Lilly Ramirez trae videos musicales en vivo sin editar con los mejores cantantes y músicos latinoamericanos del mundo de hoy!(n)</desc>
+    <desc lang="en">¡La presentadora Lilly Ramirez trae videos musicales en vivo sin editar con los mejores cantantes y músicos latinoamericanos del mundo de hoy!</desc>
     <category lang="en">Music</category>
     <category lang="en">Latino</category>
     <icon src="https://images.pluto.tv/episodes/5feb39da042d2a001a206495/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -9405,7 +10589,7 @@
   </programme>
   <programme start="20210530225100 +0000" stop="20210530230700 +0000" channel="Pluto TV Mundo Real es">
     <title lang="en">Encore Sessions: Episodio 2</title>
-    <desc lang="en">¡La presentadora Lilly Ramirez trae videos musicales en vivo sin editar con los mejores cantantes y músicos latinoamericanos del mundo de hoy!(n)</desc>
+    <desc lang="en">¡La presentadora Lilly Ramirez trae videos musicales en vivo sin editar con los mejores cantantes y músicos latinoamericanos del mundo de hoy!</desc>
     <category lang="en">Music</category>
     <category lang="en">Latino</category>
     <icon src="https://images.pluto.tv/episodes/5feb39d9042d2a001a206483/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -9415,7 +10599,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530094400 +0000" channel="Vaya semanita es">
     <title lang="en">Vaya semanita</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f28009b150b2500077766b8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -9524,7 +10708,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530094600 +0000" channel="El Conquistador del Fin es">
     <title lang="en">El Conquistador del Fin</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f280149cec6be00072ab1fc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -9593,7 +10777,7 @@
   </programme>
   <programme start="20210530000000 +0000" stop="20210530090100 +0000" channel="Pluto TV Sci-Fi es">
     <title lang="en">Pluto TV Sci-Fi</title>
-    <desc lang="en">No information available.(c)</desc>
+    <desc lang="en">No information available.</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
@@ -9682,7 +10866,7 @@
   </programme>
   <programme start="20210530223200 +0000" stop="20210531001800 +0000" channel="Pluto TV Sci-Fi es">
     <title lang="en">El todopoderoso Thor</title>
-    <desc lang="en">Un demonio llamado Loki roba el martillo de invencibilidad, pero el joven héroe Thor luchará por recuperarlo tras un duro entrenamiento. Su único objetivo será salvar la tierra de Armagedón.(n)</desc>
+    <desc lang="en">Un demonio llamado Loki roba el martillo de invencibilidad, pero el joven héroe Thor luchará por recuperarlo tras un duro entrenamiento. Su único objetivo será salvar la tierra de Armagedón.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Action Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/episodes/604f88f912d561001a4eef02/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
