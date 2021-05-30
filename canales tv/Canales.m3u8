@@ -244,7 +244,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=5dcde1317578340009b751d0&_l=.pvr
 plugin://slyguy.pluto.tv.provider/?_=play&id=5b4e94282d4ec87bdcbb87cd&_l=.pvr
 
 #EXTINF:-1 group-title="Entretenimiento;Pluto TV" tvg-chno="104" tvg-id="5de802659167b10009e7deba" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" tvg-name="Pluto TV Series Retro",Pluto TV Series Retro
-plugin://slyguy.pluto.tv.provider/?_=play&id=5de802659167b10009e7deba&_l=.pvr
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=20.6668&deviceLon=-103.3918&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=86.0.4240.75&includeExtendedEvents=false&marketingRegion=VE&sid=f50260ee-0c80-11eb-860b-0242ac110002&userId=
 
 #EXTINF:-1 group-title="Entertainment;Pluto TV" tvg-chno="105" tvg-id="5ede45d077746000072be0fe" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" tvg-name="Auction Hunters",Auction Hunters
 plugin://slyguy.pluto.tv.provider/?_=play&id=5ede45d077746000072be0fe&_l=.pvr
