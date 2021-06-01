@@ -1,74 +1,74 @@
 +#EXTM3U
 
-#EXTINF:-1 group-title="USA" , Pluto TV Kids
+#EXTINF:-1 group-title="USA" , 989 Pluto TV Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Pluto TV News
+#EXTINF:-1 group-title="USA" , 202 Pluto TV News
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Slow TV
+#EXTINF:-1 group-title="USA" , 696 Slow TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , TYT Network
+#EXTINF:-1 group-title="USA" , 246 TYT Network
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5331d5fb753499095a00045a/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , GLORY Kickboxing
+#EXTINF:-1 group-title="USA" , 736 GLORY Kickboxing
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , CNN
+#EXTINF:-1 group-title="USA" , 209 CNN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , MST3K
+#EXTINF:-1 group-title="USA" , 488 MST3K
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Top Stories by Newsy
+#EXTINF:-1 group-title="USA" , 232 Top Stories by Newsy
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Bloomberg TV
+#EXTINF:-1 group-title="USA" , 224 Bloomberg TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , FailArmy
+#EXTINF:-1 group-title="USA" , 498 FailArmy
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Awesomeness TV
+#EXTINF:-1 group-title="USA" , 194 Awesomeness TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Shout! Factory TV
+#EXTINF:-1 group-title="USA" , 542 Shout! Factory TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , NewsmaxTV
+#EXTINF:-1 group-title="USA" , 236 NewsmaxTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , PRODUCTION Sky News 3/25/21
+#EXTINF:-1 group-title="USA" , 221 PRODUCTION Sky News 3/25/21
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-#EXTINF:-1 group-title="USA" , World Poker Tour
+#EXTINF:-1 group-title="USA" , 770 World Poker Tour
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , After School Cartoons
+#EXTINF:-1 group-title="USA" , 990 After School Cartoons
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Classic Movies Channel
+#EXTINF:-1 group-title="USA" , 106 Classic Movies Channel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , IGN
+#EXTINF:-1 group-title="USA" , 805 IGN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Pluto TV Action
+#EXTINF:-1 group-title="USA" , 54 Pluto TV Action
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , CNET
+#EXTINF:-1 group-title="USA" , 228 CNET
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Classic Toons TV
+#EXTINF:-1 group-title="USA" , 548 Classic Toons TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Pluto TV Sports
+#EXTINF:-1 group-title="USA" , 725 Pluto TV Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Stand-Up TV
+#EXTINF:-1 group-title="USA" , 468 Stand-Up TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Pluto TV Science
+#EXTINF:-1 group-title="USA" , 672 Pluto TV Science
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Pluto TV Horror
+#EXTINF:-1 group-title="USA" , 75 Pluto TV Horror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Pluto TV Animals
+#EXTINF:-1 group-title="USA" , 666 Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Funny AF
+#EXTINF:-1 group-title="USA" , 450 Funny AF
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Cheddar News
+#EXTINF:-1 group-title="USA" , 226 Cheddar News
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812afe1d0f0b8d55dde67fa/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Fight
+#EXTINF:-1 group-title="USA" , 726 Fight
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Pluto TV Cars
+#EXTINF:-1 group-title="USA" , 663 Pluto TV Cars
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Anime All Day
+#EXTINF:-1 group-title="USA" , 830 Anime All Day
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , MinecrafTV
+#EXTINF:-1 group-title="USA" , 815 MinecrafTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Spike Pluto TV
+#EXTINF:-1 group-title="USA" , 290 Spike Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Naturescape
+#EXTINF:-1 group-title="USA" , 692 Naturescape
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
-#EXTINF:-1 group-title="USA" , Pluto TV True Crime
+#EXTINF:-1 group-title="USA" , 365 Pluto TV True Crime
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
 #EXTINF:-1 group-title="USA" , BUZZR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=US&sid=91626cec-c16a-11eb-ad20-0242ac110002&userId="
