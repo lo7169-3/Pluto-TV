@@ -1,0 +1,23 @@
+#EXTM3U   
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="10. M+ ESTILO DE VIDA", BE MAD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f47176ff659b4dff9fa6c03febe3293b&key=d87db783c6e1d3627f98e0f6fbb2795e
+https://bemad-dash-movistarplus.emisiondof6.com/dash/bemad.isml/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="01. M+ GENERALISTAS",TVE La1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=14fc0e3b249a43faa52fc69279e77cab&key=71c987df089eda046faf592931e84a5c
+https://tvela1-dash-movistarplus.emisiondof6.com/dash/tvela1.isml/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845925428068392/unknown.png" group-title="Deportes",Dazn 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"glq74TUh2yrqEZ4VMdiRyw", "kid":"ZF11ZIP1Q9O0M/iYmlcLOQ" } ], "type":"temporary" }
+https://mplus2-dash-movistarplus.emisiondof6.com/dash/mplus2.isml/manifest.mpd
+#EXTINF:-1 tvg-id="vamos" tvg-name="vamos" tvg-logo="https://media.tvup.cloud/canales/color_lg_60dab461eb84d1001aa69c11.png" group-title="Autonomicas TDT,8 Madrid TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JqSVvgvPsAyBviP/jkE1kQ", "kid":"k9vu649xWF68LsRlUvunSA" } { "kty":"oct", "k":"tsQD7BqGay1pEuKCdN6OAQ", "kid":"8apIvmdqXf6U/nWSWzIZYg" } ], "type":"temporary" }
+https://tvup-live.secure.footprint.net/8madrid/8madrid.mpd
+
+
